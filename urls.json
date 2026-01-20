@@ -1,1 +1,326 @@
-
+{
+  "Adana": {
+    "url": "https://www.adanaeo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Adıyaman": {
+    "url": "https://www.adiyamaneo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Afyonkarahisar": {
+    "url": "https://www.afyoneczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Ağrı": {
+    "url": "https://www.agrieo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Aksaray": {
+    "url": "https://www.aksarayeo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Amasya": {
+    "url": "https://www.amasyaeo.org.tr/",
+    "scrape": false
+  },
+  "Ankara": {
+    "url": "https://www.aeo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Antalya": {
+    "url": "https://www.antalyaeo.org.tr/tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Ardahan": {
+    "url": "https://www.erzurumeo.org.tr/nobetci-eczaneler/75",
+    "scrape": true
+  },
+  "Artvin": {
+    "url": "https://www.trabzoneczaciodasi.org.tr/nobetci-eczaneler/8",
+    "scrape": true
+  },
+  "Aydın": {
+    "url": "https://www.aydineczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Balıkesir": {
+    "url": "https://www.balikesireczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Bartın": {
+    "url": "https://www.zeo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Batman": {
+    "url": "https://www.batmaneczaciodasi.org.tr/nobetci-eczaneler/72",
+    "scrape": true
+  },
+  "Bayburt": {
+    "url": "https://www.erzurumeo.org.tr/nobetci-eczaneler/69",
+    "scrape": true
+  },
+  "Bilecik": {
+    "url": "https://www.eskisehireo.org.tr/bilecik-nobetci-eczaneler",
+    "scrape": true
+  },
+  "Bingöl": {
+    "url": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/bingol",
+    "scrape": true
+  },
+  "Bitlis": {
+    "url": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Bolu": {
+    "url": "https://seobit.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Burdur": {
+    "url": "https://www.burdureo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Bursa": {
+    "url": "https://www.beo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Çanakkale": {
+    "url": "https://www.canakkaleeo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Çankırı": {
+    "url": "https://www.kastamonueo.org.tr/nobetci-eczaneler/18",
+    "scrape": true
+  },
+  "Çorum": {
+    "url": "https://www.corumeo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Denizli": {
+    "url": "https://denizlieczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Diyarbakır": {
+    "url": "https://www.diyarbakireo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Düzce": {
+    "url": "https://www.duzceeo.org/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Edirne": {
+    "url": "https://www.edirneeo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Elazığ": {
+    "url": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/elazig",
+    "scrape": true
+  },
+  "Erzincan": {
+    "url": "https://erzincaneo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Erzurum": {
+    "url": "https://www.erzurumeo.org.tr/nobetci-eczaneler/25",
+    "scrape": true
+  },
+  "Eskişehir": {
+    "url": "https://www.eskisehireo.org.tr/eskisehir-nobetci-eczaneler",
+    "scrape": true
+  },
+  "Gaziantep": {
+    "url": "https://gaziantepeczaciodasi.com.gaziantepeo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Giresun": {
+    "url": "https://www.giresuneczaciodasi.org.tr/giresun_nobetci_karti.php/",
+    "scrape": true
+  },
+  "Gümüşhane": {
+    "url": "https://www.trabzoneczaciodasi.org.tr/nobetci-eczaneler/29",
+    "scrape": true
+  },
+  "Hakkari": {
+    "url": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Hatay": {
+    "url": "https://www.hatayeo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Iğdır": {
+    "url": "https://www.erzurumeo.org.tr/nobetci-eczaneler/76",
+    "scrape": true
+  },
+  "Isparta": {
+    "url": "https://www.ispartaeo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "İstanbul": {
+    "url": "https://www.istanbuleczaciodasi.org.tr/nobetci-eczane/#!%C4%B0stanbul/",
+    "scrape": true
+  },
+  "İzmir": {
+    "url": "https://www.izmireczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Kahramanmaraş": {
+    "url": "https://www.kahramanmaraseo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Karabük": {
+    "url": "https://www.kastamonueo.org.tr/nobetci-eczaneler/78",
+    "scrape": true
+  },
+  "Karaman": {
+    "url": "https://www.karamaneo.org.tr/nobet-listesi",
+    "scrape": true
+  },
+  "Kars": {
+    "url": "https://www.erzurumeo.org.tr/nobetci-eczaneler/36",
+    "scrape": true
+  },
+  "Kastamonu": {
+    "url": "https://www.kastamonueo.org.tr/nobetci-eczaneler/37",
+    "scrape": true
+  },
+  "Kayseri": {
+    "url": "https://www.kayserieo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Kırıkkale": {
+    "url": "https://www.kirklarelieo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Kırklareli": {
+    "url": "https://www.kirklarelieo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Kırşehir": {
+    "url": "https://www.aksarayeo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Kilis": {
+    "url": "https://www.gaziantepeo.org.tr/nobetci-eczaneler/filtrele?tarih=19.01.2026&bolge=all-K%C4%B0L%C4%B0S",
+    "scrape": true
+  },
+  "Kocaeli": {
+    "url": "https://www.kocaelieo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Konya": {
+    "url": "https://www.konyanobetcieczaneleri.com/",
+    "scrape": true
+  },
+  "Kütahya": {
+    "url": "https://www.kutahyaeo.org.tr/nobetci-eczaneler/25",
+    "scrape": true
+  },
+  "Malatya": {
+    "url": "https://www.malatyaeczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Manisa": {
+    "url": "https://www.manisaeczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Mardin": {
+    "url": "https://www.mardineczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Mersin": {
+    "url": "https://www.mersineczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Muğla": {
+    "url": "https://www.muglaeczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Muş": {
+    "url": "https://www.batmaneczaciodasi.org.tr/nobetci-eczaneler/49",
+    "scrape": true
+  },
+  "Nevşehir": {
+    "url": "https://www.nevsehireo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Niğde": {
+    "url": "https://www.neo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Ordu": {
+    "url": "https://ordueczaciodasi.org.tr/nobetci-eczaneler/",
+    "scrape": true
+  },
+  "Osmaniye": {
+    "url": "https://www.osmaniyeeczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Rize": {
+    "url": "https://www.trabzoneczaciodasi.org.tr/nobetci-eczaneler/53",
+    "scrape": true
+  },
+  "Sakarya": {
+    "url": "https://www.seo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Samsun": {
+    "url": "https://www.samsuneczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Siirt": {
+    "url": "https://siirteo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Sinop": {
+    "url": "https://www.samsuneczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Sivas": {
+    "url": "https://www.sivaseo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Şanlıurfa": {
+    "url": "https://www.sanliurfaeo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Şırnak": {
+    "url": "https://www.mardineczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Tekirdağ": {
+    "url": "https://www.teo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Tokat": {
+    "url": "https://www.tokateo.org/NobetciEczane.aspx",
+    "scrape": false
+  },
+  "Trabzon": {
+    "url": "https://www.trabzoneczaciodasi.org.tr/nobetci-eczaneler/61",
+    "scrape": true
+  },
+  "Tunceli": {
+    "url": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/tunceli",
+    "scrape": true
+  },
+  "Uşak": {
+    "url": "https://usakeczaciodasi.org.tr/pharmacies",
+    "scrape": true
+  },
+  "Van": {
+    "url": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Yalova": {
+    "url": "https://www.istanbuleczaciodasi.org.tr/nobetci-eczane/#!Yalova/",
+    "scrape": false
+  },
+  "Yozgat": {
+    "url": "https://www.yozgateo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  },
+  "Zonguldak": {
+    "url": "https://www.zeo.org.tr/nobetci-eczaneler",
+    "scrape": true
+  }
+}
