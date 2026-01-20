@@ -1,0 +1,33 @@
+name: Nöbetçi Eczane Scraper
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # Her gün 03:00 UTC (Türkiye 06:00)
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo'yu çek
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Gereksinimleri yükle
+        run: pip install -r requirements.txt
+
+      - name: Scraper çalıştır
+        run: python scraper.py
+
+      - name: Değişiklik varsa commit at
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/eczaneler.json
+          git commit -m "Günlük nöbetçi eczane güncellemesi" || echo "Değişiklik yok"
+          git push
