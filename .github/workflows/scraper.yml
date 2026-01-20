@@ -1,5 +1,8 @@
 name: Nöbetçi Eczane Scraper
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 3 * * *"   # Her gün 03:00 UTC (Türkiye 06:00)
