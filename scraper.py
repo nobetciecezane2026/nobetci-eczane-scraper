@@ -37,7 +37,6 @@ def scrape_city(city, url):
     for line in lines:
         line = clean(line)
 
-        # ECZANE isim yakalama
         if "ECZANESİ" in line.upper() and len(line) < 100:
             if current["name"]:
                 pharmacies.append(current)
@@ -45,12 +44,10 @@ def scrape_city(city, url):
 
             current["name"] = line
 
-        # Adres çekme
         if "Adres" in line or "adres" in line or "No:" in line:
             if current["address"] == "":
                 current["address"] = line
 
-        # Telefon numarası çekme
         if "Tel" in line or "Telefon" in line:
             digits = ''.join(filter(str.isdigit, line))
             current["phone"] = digits
@@ -62,7 +59,6 @@ def scrape_city(city, url):
 
 all_data = {}
 
-# Sadece HTML kazıyıcı "Evet" olan illeri kullanacağız
 for city, meta in URLS.items():
     if meta["scrape"] is False:
         continue
@@ -71,8 +67,8 @@ for city, meta in URLS.items():
     all_data[city] = scrape_city(city, url)
     time.sleep(1)
 
-# JSON çıktı kaydı
-with open("nobetci_eczane_81il.json", "w", encoding="utf-8") as f:
+# 👉 ÇIKTIYI DOĞRU DOSYAYA YAZ
+with open("data/eczaneler.json", "w", encoding="utf-8") as f:
     json.dump(all_data, f, ensure_ascii=False, indent=2)
 
-print("\n[✓] Bitti → nobetci_eczane_81il.json oluşturuldu.")
+print("\n[✓] Bitti → data/eczaneler.json oluşturuldu.")
