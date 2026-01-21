@@ -1,189 +1,42 @@
 {
   "Adana": [
     {
-      "name": "BİLGE ECZANESİ",
+      "name": "PARK ECZANESİ",
       "address": "Reşatbey Mah. Adalet Cad. No:24 Seyhan / Adana",
       "phone": ""
     },
     {
-      "name": "EKİN ECZANESİ",
+      "name": "YEŞİLYURT ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "DEMİR ECZANESİ",
+      "name": "HASTANELER ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "TOROS ECZANESİ",
+      "name": "ÜNLÜ ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "DALKIRAN ECZANESİ",
+      "name": "GÖKÇE ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ŞAKİRPAŞA ECZANESİ",
+      "name": "ŞİFAVEREN ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "CEVHERİBUCAK ECZANESİ",
+      "name": "ERKAN ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "PAŞA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BURAK HALAÇ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ENES ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ARDIÇ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÜLİN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BURÇAK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "AYDEMİR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ADEM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ONDOKUZMAYIS ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "İNAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GENÇLİK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KOCATEPE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MİNE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SAİMBEYLİ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YILMAZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KEKLİK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "AYAS KORKMAZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MİHRAP ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÖZKAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TAŞPINAR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MERKEZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÖZDE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ERSOY ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KILIÇ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "FİLİZ ÖZKAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÜVEN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "AYŞENUR TAŞTEPE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YILDIRIM ECZANESİ",
-      "address": "",
-      "phone": ""
-    }
-  ],
-  "Adıyaman": [
-    {
-      "name": "ALEV  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "EĞİTİM ECZANESİ",
+      "name": "ŞAHİNKANAT ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -193,89 +46,122 @@
       "phone": ""
     },
     {
-      "name": "AYDIN ECZANESİ",
+      "name": "GÖZÜ ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ÇELIKHAN ECZANESİ",
+      "name": "PAPATYA ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "GÖLBAŞI ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "AKEL  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MERVE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "İREM ECZANESİ",
-      "address": "Turgut Reis Mah. Eski Zey Cad. No:59 Merkez / Adıyaman",
-      "phone": ""
-    }
-  ],
-  "Afyonkarahisar": [
-    {
-      "name": "SERDAR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ERTUNÇ  ECZANESİ",
+      "name": "MAVİ BULVAR ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
       "name": "EGE ECZANESİ",
-      "address": "Dumlupınar Mahallesi Dumlupınar 2.Cadde No:35A",
-      "phone": ""
-    },
-    {
-      "name": "GAMZE  ECZANESİ",
-      "address": "Fatih Mahallesi İsmet Atilla Caddesi No:38/B Başmakçı/ AFYONKARAHİSAR",
-      "phone": ""
-    },
-    {
-      "name": "PORSUK ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ÜNAL  ECZANESİ",
+      "name": "ANNEM ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "YAŞAM ECZANESİ",
+      "name": "YENİ NUMUNE ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ÖZDEMIR ECZANESİ",
+      "name": "SAYMAN ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ÇALISKAN ECZANESİ",
+      "name": "NOYANER ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ZAFER ECZANESİ",
-      "address": "ŞEHİT ONBAŞI DOĞAN ALAZ CAD. No:14/B EMIRDAG-AFYONKARAHISAR",
+      "name": "KAYA ECZANESİ",
+      "address": "",
       "phone": ""
     },
     {
-      "name": "PINAR ECZANESİ",
+      "name": "ZEYNEP ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "5 OCAK ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "EMRE ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ŞAFAK ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ÖZTÜRK ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "GÜNEŞ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ÇAKIT ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "FİLİZİM ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "DORAK ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ÇOLAK ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "SALBAŞ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "DEVA ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "KAAN ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ALADAĞ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "EROĞLU ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -283,127 +169,175 @@
       "name": "BÜŞRA ECZANESİ",
       "address": "",
       "phone": ""
-    },
+    }
+  ],
+  "Adıyaman": [
     {
-      "name": "CIHAN ECZANESİ",
+      "name": "DOLAS  ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "EGE ECZANESİ",
+      "name": "ÖZÇELİK ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ONUR ECZANESİ",
+      "name": "KEREM  ECZANESİ",
       "address": "",
+      "phone": ""
+    },
+    {
+      "name": "GÜNDOĞAN ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "TALTEM ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "LALE ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "EMİNE VURAL ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "SALDUZ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "PEKER ECZANESİ",
+      "address": "Turgut Reis Mah. Eski Zey Cad. No:59 Merkez / Adıyaman",
+      "phone": ""
+    }
+  ],
+  "Afyonkarahisar": [
+    {
+      "name": "ECE ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "SEVGI ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ÖZTEKE ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "GÖNÜLLÜ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "EBRU  ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "DERMAN ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "HILAL ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "EGESU ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "DEFNE ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "DERMAN ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "FRİGYA ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "MURAT ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "KOKKOKOGLU ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ORAN ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "KALE  ECZANESİ",
+      "address": "Altıgöz Mah.Afyon cad.No:96/B ŞUHUT",
       "phone": ""
     }
   ],
   "Ağrı": [
     {
-      "name": "NADİR ECZANESİ",
+      "name": "GÜVEN ECZANESİ",
       "address": "Leylek Pınar Mh. 1704 Sokak Barış İş Merkezi No:9 K:3 D:30",
       "phone": ""
     },
     {
-      "name": "ZARİF ECZANESİ",
+      "name": "KAYA ECZANESİ",
+      "address": "Yavuz Mahallesi, Kağızman Caddesi No:50/A Merkez / Ağrı",
+      "phone": ""
+    },
+    {
+      "name": "ŞİFA ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "EMİN ECZANESİ",
+      "name": "DOĞA ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "FATMA KOÇ ECZANESİ",
+      "name": "EMEK ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ŞİFA  ECZANESİ",
+      "name": "ÖZLEM ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ÖMER ECZANESİ",
+      "name": "FERHAT ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ELİF ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BEGÜM ECZANESİ",
+      "name": "TUTAK ECZANESİ",
       "address": "",
       "phone": ""
     }
   ],
-  "Aksaray": [
-    {
-      "name": "VOLKAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YEŞİLYURT  ECZANESİ",
-      "address": "AKSARAY EĞT.ARAŞ.HASTANESİ YENİ BİNA KARŞISI   Tacin Mah. 105 Cad. 33/B No:27-28",
-      "phone": ""
-    },
-    {
-      "name": "MUTLU ECZANESİ",
-      "address": "TAŞPAZAR MAHALLESİ SANCİLİBABA TÜRBESİ  İLERİSİ   Taşpazar Mah.841 Sokak No:31/A",
-      "phone": ""
-    },
-    {
-      "name": "YENİ AĞAÖREN   ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "NUR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "FEZA   ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "FEYZANUR  ECZANESİ",
-      "address": "ORTAKÖY DEVLET HASTANESİ KARŞISI    Zafer Mah.4035 Sokak No:13",
-      "phone": ""
-    },
-    {
-      "name": "UMUT ECZANESİ",
-      "address": "İstikamet Mah. Reis Fahri Solak Cad. No: 61/A    SULTANHANI KASABASI AKSARAY",
-      "phone": ""
-    },
-    {
-      "name": "ASIKPASA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "UĞUR  ECZANESİ",
-      "address": "Eski acil karşısı  Aşıkpaşa Mah. Paşakonağı Apt. Altı No:8",
-      "phone": ""
-    },
-    {
-      "name": "ARAN  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HENDEK   ECZANESİ",
-      "address": "Turizm Cad. ERAS İşhanı Kat 3 No: 146-147 68100 Aksaray",
-      "phone": ""
-    }
-  ],
+  "Aksaray": [],
   "Ankara": [],
   "Antalya": [
     {
@@ -602,198 +536,16 @@
       "phone": ""
     }
   ],
-  "Ardahan": [
-    {
-      "name": "ARZU  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YENİ GÖLE ECZANESİ",
-      "address": "Solakzade Mah. Maraşal Fevzi Çakmak Cad. No:10 Palandöken / Erzurum",
-      "phone": ""
-    }
-  ],
-  "Artvin": [
-    {
-      "name": "ÇAMLICA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÇAMLICA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DENİZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DENİZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BAYRAKTAR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BAYRAKTAR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ZEYTÜL ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ZEYTÜL ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "UZUN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "UZUN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DENİZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DENİZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SERHAT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SERHAT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SARIKAYA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SARIKAYA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MEDEA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MEDEA ECZANESİ",
-      "address": "",
-      "phone": ""
-    }
-  ],
+  "Ardahan": [],
+  "Artvin": [],
   "Aydın": [
-    {
-      "name": "KARATAŞ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HAZAL ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TEMİZER ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞAHİN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
     {
       "name": "EZGİ ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "SENEM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TOPRAK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "UĞUR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GARAJ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "ALMİLA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ACARLAR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DERMAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YILDIRIM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YAVAŞ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ATÇA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÇAĞLAYAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "OĞUZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÇATALKAYA ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -808,27 +560,7 @@
       "phone": ""
     },
     {
-      "name": "MELTEM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "BİLGE KAĞAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "PINAR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BELEN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ZEYTİN ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -838,32 +570,7 @@
       "phone": ""
     },
     {
-      "name": "ÜMİT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YENİ SEMA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "PAMUKÖREN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "EKER ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "CANSU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÖZGÜN ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -915,26 +622,6 @@
       "phone": ""
     },
     {
-      "name": "NEŞE ECZANESİ",
-      "address": "Enverpaşa Mh.Atatürk Cd.No:8/B",
-      "phone": ""
-    },
-    {
-      "name": "BİZİM LATİF KORKUT ECZANESİ",
-      "address": "Kocacami Mah.Atatürk Cad.No:5",
-      "phone": ""
-    },
-    {
-      "name": "İSKELE ECZANESİ",
-      "address": "İskele Mah. Osman Ağa Cad. No:6/A",
-      "phone": ""
-    },
-    {
-      "name": "ÖZEN  ECZANESİ",
-      "address": "Güre Mah. Çanakkale Bulvarı No:364A",
-      "phone": ""
-    },
-    {
       "name": "YÜKSEL ECZANESİ",
       "address": "",
       "phone": ""
@@ -942,11 +629,6 @@
     {
       "name": "MAVİ ECZANESİ",
       "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HACETTEPE ECZANESİ",
-      "address": "Yalı Mah.Hükümet Cad.No:3/B",
       "phone": ""
     },
     {
@@ -960,16 +642,6 @@
       "phone": ""
     },
     {
-      "name": "BALOĞLU ECZANESİ",
-      "address": "Cumhuriyet Cd.No:8",
-      "phone": ""
-    },
-    {
-      "name": "LAPANTA ECZANESİ",
-      "address": "Bedrettin Mh.Zübeyde Hanım Cd.No:7",
-      "phone": ""
-    },
-    {
       "name": "ELİF ECZANESİ",
       "address": "Cami-i Cedit Mh.Durak Cd.No:11",
       "phone": ""
@@ -980,18 +652,8 @@
       "phone": ""
     },
     {
-      "name": "KURTDERELİ ECZANESİ",
-      "address": "İstiklal Mh.Mesir Sk.No:14/1",
-      "phone": ""
-    },
-    {
       "name": "IŞIK ECZANESİ",
       "address": "Akhisar Cd.No:24/A",
-      "phone": ""
-    },
-    {
-      "name": "GÖKHAN ECZANESİ",
-      "address": "Burhaniye Mh.Milli Kuvvetler Cd.No:75",
       "phone": ""
     },
     {
@@ -1032,17 +694,7 @@
       "phone": ""
     },
     {
-      "name": "MÜGE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "ARZU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÇAGLAR ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -1057,22 +709,12 @@
       "phone": ""
     },
     {
-      "name": "EBRU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "DEMİRAY  ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
       "name": "MÜGE İLAYDA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BÜŞRA ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -1093,31 +735,6 @@
     },
     {
       "name": "SAGLIK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BIRINCI ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TUBA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SERHAT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SALTUKOVA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HISARÖNÜ ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -1174,22 +791,7 @@
       "phone": ""
     },
     {
-      "name": "ŞİFA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "VEFA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "BEŞİRİ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞİFA ECZANESİ",
       "address": "",
       "phone": ""
     }
@@ -1223,49 +825,14 @@
       "phone": ""
     },
     {
-      "name": "GÖLPAZARI ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "ÇINAR  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HAYAT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞEHİRLİ ECZANESİ",
       "address": "",
       "phone": ""
     }
   ],
   "Bingöl": [
     {
-      "name": "BÜYÜK  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "ŞARK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "Nur ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HAYAT ECZANESİ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "EMRE ECZANESİ",
       "address": "",
       "phone": ""
     }
@@ -1303,41 +870,6 @@
     },
     {
       "name": "ÇİÇEK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ELBAK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HALK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÖNÜL ECZANESİ",
-      "address": "Yenişehir Mah.Hast.Cad.No:53",
-      "phone": ""
-    },
-    {
-      "name": "GEVAŞ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÜZELSU ECZANESİ",
-      "address": "Akpınar Mahallesi Hastane yolu üzeri Mezbaha Caddesi No:1",
-      "phone": ""
-    },
-    {
-      "name": "YAŞAM ECZANESİ",
-      "address": "Atatürk Mahallesi 3 Nisan No:71",
-      "phone": ""
-    },
-    {
-      "name": "YENI SIFA ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -1397,11 +929,6 @@
       "phone": ""
     },
     {
-      "name": "MAVİ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "AKİ ECZANESİ",
       "address": "",
       "phone": ""
@@ -1427,66 +954,41 @@
       "name": "ÇALIK ECZANESİ",
       "address": "",
       "phone": ""
-    },
-    {
-      "name": "MUDURNU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MENGEN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TANER ECZANESİ",
-      "address": "Yeni Mah. Fazıl Cad. No:7",
-      "phone": ""
-    },
-    {
-      "name": "AYÇIÇEGI ECZANESİ",
-      "address": "",
-      "phone": ""
     }
   ],
   "Burdur": [
     {
-      "name": "AYTAR ECZANESİ",
+      "name": "ENGİN ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "KARDELEN ECZANESİ",
+      "name": "SÜMER ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ERÇELİK ECZANESİ",
+      "name": "ASRİ ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "YEŞİLOVA ECZANESİ",
+      "name": "AKDENİZ ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "TEFENNİ ECZANESİ",
+      "name": "DEMİROL ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "DEVA ECZANESİ",
+      "name": "KARAMANLI ECZANESİ",
       "address": "Konak Mh. Yurt Sk. Uzay Apt. No:7 Burdur",
       "phone": ""
     }
   ],
   "Bursa": [
-    {
-      "name": "BEYOĞLU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
     {
       "name": "ADAÇAYI PRESTİJ ECZANESİ",
       "address": "",
@@ -1513,17 +1015,17 @@
       "phone": ""
     },
     {
-      "name": "BİRSEL ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ASLI YILMAZ ECZANESİ",
+      "name": "BEYOĞLU ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
       "name": "GİZEM NUR ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ASLI YILMAZ ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -1539,6 +1041,11 @@
     },
     {
       "name": "EMEK ŞİFA ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "BİRSEL ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -1563,11 +1070,6 @@
       "phone": ""
     },
     {
-      "name": "YASEMİN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "GEMLİK ECZANESİ",
       "address": "",
       "phone": ""
@@ -1583,17 +1085,7 @@
       "phone": ""
     },
     {
-      "name": "SILA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "GÜVEN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ERDEM ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -1614,11 +1106,6 @@
     },
     {
       "name": "BAYRAKTAR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MÜGE ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -1651,11 +1138,6 @@
       "name": "YEŞİM ÖNAL ECZANESİ",
       "address": "",
       "phone": ""
-    },
-    {
-      "name": "ESRA ECZANESİ",
-      "address": "",
-      "phone": ""
     }
   ],
   "Çanakkale": [
@@ -1685,11 +1167,6 @@
       "phone": ""
     },
     {
-      "name": "DURMAZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "VATAN ECZANESİ",
       "address": "",
       "phone": ""
@@ -1706,16 +1183,6 @@
     },
     {
       "name": "EYLÜL ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "UĞUR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "NAR ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -1809,27 +1276,27 @@
   ],
   "Çorum": [
     {
-      "name": "SÖNMEZ ECZANESİ",
+      "name": "İSKENDER ECZANESİ",
       "address": "Kulaksız Sok. Gazi Apt. No: 21/1",
       "phone": ""
     },
     {
-      "name": "ÖZTÜRK ECZANESİ",
+      "name": "YAREN ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "FERAH ECZANESİ",
+      "name": "YAĞMUR ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "HAYAT ECZANESİ",
+      "name": "HİCRET ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "SEVGİ ECZANESİ",
+      "name": "YAREN ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -1844,12 +1311,12 @@
       "phone": ""
     },
     {
-      "name": "DERYA ECZANESİ",
+      "name": "FIKRI KARTAL ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "UMUT  ECZANESİ",
+      "name": "BÜYÜK ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -1874,12 +1341,12 @@
       "phone": ""
     },
     {
-      "name": "ESRA ECZANESİ",
+      "name": "TOPÇUOĞLU ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "EMRE ECZANESİ",
+      "name": "ÇAĞATAY ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -2120,65 +1587,60 @@
   ],
   "Düzce": [
     {
-      "name": "BURAK ECZANESİ",
+      "name": "BAHÇELIEVLER ECZANESİ",
       "address": "",
       "phone": "03805248586"
     },
     {
-      "name": "AHSEN ECZANESİ",
+      "name": "ALTINIŞIK ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "DÜZCE ECZANESİ",
+      "name": "ÖMÜR ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "KAYAM ECZANESİ",
+      "name": "ERAY ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "DEVA ECZANESİ",
+      "name": "CUMAYERİ ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "NESLİHAN ECZANESİ",
+      "name": "BURAK ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ERGINYAVUZ ECZANESİ",
+      "name": "HAKAN ECZANESİ",
+      "address": "Kültür Mah. Hastane Sok. No:5/A",
+      "phone": ""
+    },
+    {
+      "name": "OZAN ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "AYÇA ECZANESİ",
+      "name": "AYDIN ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "İPEK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "RECEP ECZANESİ",
+      "name": "ŞİFA ECZANESİ",
       "address": "Cedidiye Mah. Bolu Cad. No:58 D:14 Merkez/Düzce",
       "phone": ""
     }
   ],
   "Edirne": [
     {
-      "name": "ERKİN ECZANESİ",
-      "address": "Kocasinan Mah. Mustafa Akay Sk. No:1 22030",
-      "phone": ""
-    },
-    {
       "name": "ŞİFA ECZANESİ",
-      "address": "",
+      "address": "Kocasinan Mah. Mustafa Akay Sk. No:1 22030",
       "phone": ""
     },
     {
@@ -2187,17 +1649,7 @@
       "phone": ""
     },
     {
-      "name": "SAYGIN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "YAVUZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "COSKUN ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -2266,13 +1718,13 @@
   ],
   "Erzincan": [
     {
-      "name": "GAZİ ECZANESİ",
+      "name": "AHSEN ECZANESİ",
       "address": "",
       "phone": "04462142222"
     },
     {
-      "name": "MURAT ECZANESİ",
-      "address": "",
+      "name": "GÜROL ECZANESİ",
+      "address": "Karaağaç Mahallesi Şehit Yüzbaşı Fatih Devravut Caddesi No:5/B ERZINCAN",
       "phone": ""
     },
     {
@@ -2281,18 +1733,18 @@
       "phone": ""
     },
     {
-      "name": "FATMA ECZANESİ",
+      "name": "ALTINKENT ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "LOKMAN HEKİM  ECZANESİ",
-      "address": "",
+      "name": "REFAHİYE ECZANESİ",
+      "address": "Yenidoğan Mahallesi 500. Sokak No:5/A Refahiye Erzincan",
       "phone": ""
     },
     {
-      "name": "NUR ECZANESİ",
-      "address": "Fatih Mahallesi Erzincan Bulvarı No:114/C",
+      "name": "GÜVEN ECZANESİ",
+      "address": "Fatih Mahallesi Erzincan Bulvarı No:114/A",
       "phone": ""
     }
   ],
@@ -2323,16 +1775,6 @@
       "phone": ""
     },
     {
-      "name": "ILICA  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DERMAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "FATİH  ECZANESİ",
       "address": "",
       "phone": ""
@@ -2353,11 +1795,6 @@
       "phone": ""
     },
     {
-      "name": "ÇAGRI  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "AŞKALE ECZANESİ",
       "address": "",
       "phone": ""
@@ -2365,21 +1802,6 @@
     {
       "name": "ZEHRA ECZANESİ",
       "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÖZLEM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TAŞBAŞI ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÜSTÜN ECZANESİ",
-      "address": "Merkez Mah. Yeni Sahil Cad. No:3/B",
       "phone": ""
     },
     {
@@ -2430,11 +1852,6 @@
       "phone": ""
     },
     {
-      "name": "BEYLIKOVA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "DEMİRCAN ECZANESİ",
       "address": "",
       "phone": ""
@@ -2446,11 +1863,6 @@
     },
     {
       "name": "YENİ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "CAN  ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -2538,58 +1950,7 @@
     }
   ],
   "Giresun": [],
-  "Gümüşhane": [
-    {
-      "name": "HAYAT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HAYAT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ERDEM  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ERDEM  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YAŞAM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YAŞAM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YAREN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YAREN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SOYLU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SOYLU ECZANESİ",
-      "address": "",
-      "phone": ""
-    }
-  ],
+  "Gümüşhane": [],
   "Hakkari": [
     {
       "name": "NEHİR ECZANESİ",
@@ -2623,41 +1984,6 @@
     },
     {
       "name": "ÇİÇEK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ELBAK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HALK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÖNÜL ECZANESİ",
-      "address": "Yenişehir Mah.Hast.Cad.No:53",
-      "phone": ""
-    },
-    {
-      "name": "GEVAŞ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÜZELSU ECZANESİ",
-      "address": "Akpınar Mahallesi Hastane yolu üzeri Mezbaha Caddesi No:1",
-      "phone": ""
-    },
-    {
-      "name": "YAŞAM ECZANESİ",
-      "address": "Atatürk Mahallesi 3 Nisan No:71",
-      "phone": ""
-    },
-    {
-      "name": "YENI SIFA ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -2717,178 +2043,41 @@
       "phone": ""
     },
     {
-      "name": "MAVİ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "AKİ ECZANESİ",
       "address": "",
       "phone": ""
     }
   ],
-  "Hatay": [
-    {
-      "name": "KUDRET ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BÜYÜK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HIZIR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "NURSEL ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "EMİR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TEVFIK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "NAHİDE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞİFA ECZANESİ",
-      "address": "Özerli Mah. Özsoy Sok. No:36 Dörtyol",
-      "phone": ""
-    },
-    {
-      "name": "ARSLAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DAL ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BELEN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SAHIL ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YENİ YAZAR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÖZMEN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MERVE ECZANESİ",
-      "address": "Mimar Sinan Mah. İsmail Turan Bulvarı No:12 KIRIKHAN HATAY",
-      "phone": ""
-    },
-    {
-      "name": "EFE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ULUÇINAR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BAŞAK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ALTINBAŞAK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "AYDINGÜN ECZANESİ",
-      "address": "Aktepe Mah. Atatürk Cad. No:80 A-B",
-      "phone": ""
-    },
-    {
-      "name": "NAR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SEDA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SERIFOGLU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "FULYA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KUMLU ECZANESİ",
-      "address": "",
-      "phone": ""
-    }
-  ],
-  "Iğdır": [
-    {
-      "name": "İREM ECZANESİ",
-      "address": "Yukarı Mahallesi Iğdır Caddesi No:74/B",
-      "phone": ""
-    }
-  ],
+  "Hatay": [],
+  "Iğdır": [],
   "Isparta": [
     {
-      "name": "ERGÜN ECZANESİ",
+      "name": "BERK ECZANESİ",
       "address": "Isparta Ticaret ve Sanayi Odası Ekonomi Kampüsü No:185 Kat:5",
       "phone": ""
     },
     {
-      "name": "AKBAŞ ECZANESİ",
+      "name": "ÇOPUR ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "CADDE ECZANESİ",
+      "name": "RABİA AY ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ERTURAN ECZANESİ",
+      "name": "KEÇİBORLU ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "MAVİGÖL ECZANESİ",
+      "name": "DEMİREKİN ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "İHSAN ECZANESİ",
+      "name": "EROL ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -2898,13 +2087,13 @@
       "phone": ""
     },
     {
-      "name": "ÖMÜR ECZANESİ",
+      "name": "HAYAT ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "DERMAN ECZANESİ",
-      "address": "ULVİKALE MAH.144.Cumhuriyet Caddesi No:3D",
+      "name": "ŞİFA ECZANESİ",
+      "address": "",
       "phone": ""
     }
   ],
@@ -2922,16 +2111,6 @@
     },
     {
       "name": "YENİ SERTER ECZANESİ - ALSANCAK-BASMANE",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "EGEM ECZANESİ - ALTINDAĞ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "İLKNUR COŞKUN ECZANESİ - ATATÜRK-OSMANGAZİ",
       "address": "",
       "phone": ""
     },
@@ -2971,22 +2150,17 @@
       "phone": ""
     },
     {
-      "name": "BEYDAG SIFA ECZANESİ - BEYDAĞ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "MÜRDÜM  ECZANESİ - BORNOVA 1",
       "address": "",
       "phone": ""
     },
     {
-      "name": "YAZGAN ECZANESİ - BORNOVA 3",
+      "name": "İZMİR ECZANESİ - BORNOVA 2",
       "address": "",
       "phone": ""
     },
     {
-      "name": "BİLGİLİ ECZANESİ - BORNOVA 4",
+      "name": "YAZGAN ECZANESİ - BORNOVA 3",
       "address": "",
       "phone": ""
     },
@@ -3016,22 +2190,7 @@
       "phone": ""
     },
     {
-      "name": "ÇAĞATAY ECZANESİ - ÇEŞME",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "REİSDERE  ECZANESİ - ÇEŞME",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TOPKAYA ECZANESİ - ÇEŞMEALTI-İSKELE",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ELİF ECZANESİ - ÇİĞLİ",
       "address": "",
       "phone": ""
     },
@@ -3056,42 +2215,12 @@
       "phone": ""
     },
     {
-      "name": "GÜNALTAY ECZANESİ - ESKİİZMİR-CENNETÇEŞME",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "AYDA ECZANESİ - EŞREFPAŞA",
       "address": "",
       "phone": ""
     },
     {
-      "name": "KERVAN ECZANESİ - EVKA 1",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "ANDAÇ ECZANESİ - GAZİEMİR",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BUCA SEBNEM ECZANESİ - GEDİZ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÜLTEPE RENKLI ECZANESİ - GÜLTEPE",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "AZİZ ECZANESİ - GÜMÜŞPALA",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HOŞCAN ECZANESİ - GÜZELBAHÇE",
       "address": "",
       "phone": ""
     },
@@ -3102,11 +2231,6 @@
     },
     {
       "name": "YENİ ŞENİZ ECZANESİ - KARABAĞLAR",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YENI KARABURUN ECZANESİ - KARABURUN",
       "address": "",
       "phone": ""
     },
@@ -3156,17 +2280,7 @@
       "phone": ""
     },
     {
-      "name": "EGE SEYHAN ECZANESİ - MENEMEN 2",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "KIVILCIM ECZANESİ - MİTHATPAŞA",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MORDOGAN EGE ECZANESİ - MORDOĞAN",
       "address": "",
       "phone": ""
     },
@@ -3176,22 +2290,7 @@
       "phone": ""
     },
     {
-      "name": "GENÇER ECZANESİ - ÖDEMİŞ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "KARDELEN ECZANESİ - ÖDEMİŞ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KARADENİZ ECZANESİ - PINARBAŞI",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SARNIÇ ECZANESİ - SARNIÇ",
       "address": "",
       "phone": ""
     },
@@ -3206,22 +2305,12 @@
       "phone": ""
     },
     {
-      "name": "SIĞACIK ATA ECZANESİ - SIĞACIK",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "AŞIKPAŞA ECZANESİ - ŞİRİNYER",
       "address": "",
       "phone": ""
     },
     {
       "name": "ÖYKÜ BERIL ECZANESİ - TİRE",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "CEMRECAN ECZANESİ - TORBALI",
       "address": "",
       "phone": ""
     },
@@ -3246,27 +2335,7 @@
       "phone": ""
     },
     {
-      "name": "YAGMUR ECZANESİ - YENİ FOÇA",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YAZAL ECZANESİ - YENİ ŞAKRAN",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "YENİ TÜRSEN ECZANESİ - YENİŞEHİR",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YASEMIN ECZANESİ - YEŞİLYURT",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "URLA BASAR ECZANESİ - ZEYTİNALANI",
       "address": "Halkapınar Mah. Pakistan Bulvarı No:19/2 ( Megapol İzmir )Konak – İzmir",
       "phone": ""
     }
@@ -3300,61 +2369,6 @@
     {
       "name": "İBN-İ SİNA ECZANESİ",
       "address": "Aslanbey mah. Şeref Eroğlu Cad. Ballıca ASM Karşısı No:60",
-      "phone": ""
-    },
-    {
-      "name": "GÜNEŞ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BÜYÜK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "AK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "EKINÖZÜ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÖZKAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KENT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SAGLIK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KIZILER ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DEVA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DEVA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SERHAT ECZANESİ",
-      "address": "",
       "phone": ""
     }
   ],
@@ -3393,22 +2407,12 @@
   "Karaman": [],
   "Kars": [
     {
-      "name": "ARPAÇAY SAFFET ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "MERKEZ ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
       "name": "KARABAĞ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "AKIN ECZANESİ",
       "address": "Solakzade Mah. Maraşal Fevzi Çakmak Cad. No:10 Palandöken / Erzurum",
       "phone": ""
     }
@@ -3435,17 +2439,7 @@
       "phone": ""
     },
     {
-      "name": "İĞDİR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "YENI ECZANE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TUNA ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -3465,16 +2459,6 @@
       "phone": ""
     },
     {
-      "name": "ERSOY ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DOĞANYURT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "OZAN ECZANESİ",
       "address": "",
       "phone": ""
@@ -3485,37 +2469,7 @@
       "phone": ""
     },
     {
-      "name": "BİZİM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "KÜRE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "VATAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SEYDİLER ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "UMUT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÖNDER ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DEĞİRMENCİ ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -3527,19 +2481,9 @@
   ],
   "Kayseri": [
     {
-      "name": "AYSUN ECZANESİ",
-      "address": "",
-      "phone": "4444329"
-    },
-    {
-      "name": "ÇİLİNGİR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "ÇİFTLİK ECZANESİ",
       "address": "",
-      "phone": ""
+      "phone": "4444329"
     },
     {
       "name": "ELİF ECZANE OPTİK ECZANESİ",
@@ -3547,94 +2491,114 @@
       "phone": ""
     },
     {
+      "name": "AYSUN ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ÇİLİNGİR ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
       "name": "DENİZYILDIZI ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÜÇLÜ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÇALIŞKAN ECZANESİ",
-      "address": "Danişment Gazi Mah. Reşadiye Cad. No: 30/C",
-      "phone": ""
-    },
-    {
-      "name": "BELSIN ECZANESİ",
-      "address": "Sakarya Mah. Eren Yıldırım Bulv. No:31/C Melikgazi/Kayseri",
-      "phone": ""
-    },
-    {
-      "name": "BİRADEROĞLU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ZEYNEP SOMTAŞ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ELEM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BİLLUR ECZANESİ",
-      "address": "Mimarsinan Mah. Billur Cad. No: 79/B",
-      "phone": ""
-    },
-    {
-      "name": "LAVANTA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÜNVER ECZANESİ",
-      "address": "Bahçelievler Mah. Mevlana Cad. Avcıl Sit. B Blok No:28/D",
+      "address": "Kiçikapu Meydanı Zekibey Apt. No:26 D:5 Melikgazi/Kayseri",
       "phone": ""
     }
   ],
   "Kırıkkale": [
     {
-      "name": "ESRA ECZANESİ",
+      "name": "ONUR ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ŞİFA  ECZANESİ",
+      "name": "ATLAS ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "SAĞLIK ECZANESİ",
-      "address": "Gençlik Mahallesi,Selami Şaşmaz Caddesi No:34-B Lüleburgaz",
+      "name": "YAŞAR ECZANESİ",
+      "address": "Atatürk Mah. İstanbul Cad. No:183/A LÜLEBURGAZ",
       "phone": ""
     },
     {
-      "name": "ERSİN ECZANESİ",
+      "name": "FUNDA ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "BİZİM ECZANESİ",
+      "name": "ÇEVİK ECZANESİ",
+      "address": "Dindoğru Mah. 421. Sok. No:57/59 BABAESKİ DEVLET HASTANE KARŞISI",
+      "phone": ""
+    },
+    {
+      "name": "DUROĞLU ECZANESİ",
+      "address": "Hamdibey Mah. İğneada Cad. No:30/A",
+      "phone": ""
+    },
+    {
+      "name": "ESKİ ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "BASAK ECZANESİ",
+      "name": "AYTEN ECZANESİ",
+      "address": "Dere Mah. Şehit Şerif Avar Cad. No:1/A PINARHİSAR",
+      "phone": ""
+    },
+    {
+      "name": "DENİZ ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "VİZE ECZANESİ",
+      "name": "ALPULLU  ECZANESİ",
+      "address": "Şeker Mah. Kenan Evren Cad. No:15",
+      "phone": ""
+    },
+    {
+      "name": "SERAP ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "MERKEZ ECZANESİ",
+      "name": "ONUR ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ATLAS ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "YAŞAR ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "FUNDA ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ÇEVİK ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "DUROĞLU ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ESKİ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "AYTEN ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -3644,109 +2608,109 @@
       "phone": ""
     },
     {
-      "name": "NERGIZ ECZANESİ",
+      "name": "ALPULLU  ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "BÜYÜK MANDIRA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ESRA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞİFA  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SAĞLIK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ERSİN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BİZİM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BASAK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "VİZE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MERKEZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DENİZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "NERGIZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BÜYÜK MANDIRA ECZANESİ",
+      "name": "SERAP ECZANESİ",
       "address": "",
       "phone": ""
     }
   ],
   "Kırklareli": [
     {
-      "name": "ESRA ECZANESİ",
+      "name": "ONUR ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ŞİFA  ECZANESİ",
+      "name": "ATLAS ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "SAĞLIK ECZANESİ",
-      "address": "Gençlik Mahallesi,Selami Şaşmaz Caddesi No:34-B Lüleburgaz",
+      "name": "YAŞAR ECZANESİ",
+      "address": "Atatürk Mah. İstanbul Cad. No:183/A LÜLEBURGAZ",
       "phone": ""
     },
     {
-      "name": "ERSİN ECZANESİ",
+      "name": "FUNDA ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "BİZİM ECZANESİ",
+      "name": "ÇEVİK ECZANESİ",
+      "address": "Dindoğru Mah. 421. Sok. No:57/59 BABAESKİ DEVLET HASTANE KARŞISI",
+      "phone": ""
+    },
+    {
+      "name": "DUROĞLU ECZANESİ",
+      "address": "Hamdibey Mah. İğneada Cad. No:30/A",
+      "phone": ""
+    },
+    {
+      "name": "ESKİ ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "BASAK ECZANESİ",
+      "name": "AYTEN ECZANESİ",
+      "address": "Dere Mah. Şehit Şerif Avar Cad. No:1/A PINARHİSAR",
+      "phone": ""
+    },
+    {
+      "name": "DENİZ ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "VİZE ECZANESİ",
+      "name": "ALPULLU  ECZANESİ",
+      "address": "Şeker Mah. Kenan Evren Cad. No:15",
+      "phone": ""
+    },
+    {
+      "name": "SERAP ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "MERKEZ ECZANESİ",
+      "name": "ONUR ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ATLAS ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "YAŞAR ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "FUNDA ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ÇEVİK ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "DUROĞLU ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ESKİ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "AYTEN ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -3756,133 +2720,17 @@
       "phone": ""
     },
     {
-      "name": "NERGIZ ECZANESİ",
+      "name": "ALPULLU  ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "BÜYÜK MANDIRA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ESRA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞİFA  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SAĞLIK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ERSİN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BİZİM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BASAK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "VİZE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MERKEZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DENİZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "NERGIZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BÜYÜK MANDIRA ECZANESİ",
+      "name": "SERAP ECZANESİ",
       "address": "",
       "phone": ""
     }
   ],
-  "Kırşehir": [
-    {
-      "name": "VOLKAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YEŞİLYURT  ECZANESİ",
-      "address": "AKSARAY EĞT.ARAŞ.HASTANESİ YENİ BİNA KARŞISI   Tacin Mah. 105 Cad. 33/B No:27-28",
-      "phone": ""
-    },
-    {
-      "name": "MUTLU ECZANESİ",
-      "address": "TAŞPAZAR MAHALLESİ SANCİLİBABA TÜRBESİ  İLERİSİ   Taşpazar Mah.841 Sokak No:31/A",
-      "phone": ""
-    },
-    {
-      "name": "YENİ AĞAÖREN   ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "NUR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "FEZA   ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "FEYZANUR  ECZANESİ",
-      "address": "ORTAKÖY DEVLET HASTANESİ KARŞISI    Zafer Mah.4035 Sokak No:13",
-      "phone": ""
-    },
-    {
-      "name": "UMUT ECZANESİ",
-      "address": "İstikamet Mah. Reis Fahri Solak Cad. No: 61/A    SULTANHANI KASABASI AKSARAY",
-      "phone": ""
-    },
-    {
-      "name": "ASIKPASA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "UĞUR  ECZANESİ",
-      "address": "Eski acil karşısı  Aşıkpaşa Mah. Paşakonağı Apt. Altı No:8",
-      "phone": ""
-    },
-    {
-      "name": "ARAN  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HENDEK   ECZANESİ",
-      "address": "Turizm Cad. ERAS İşhanı Kat 3 No: 146-147 68100 Aksaray",
-      "phone": ""
-    }
-  ],
+  "Kırşehir": [],
   "Kilis": [],
   "Kocaeli": [
     {
@@ -3917,11 +2765,6 @@
     },
     {
       "name": "SEVGİ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YENİ YAŞAM ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -3966,11 +2809,6 @@
       "phone": ""
     },
     {
-      "name": "ANADOLU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "ECEM GENÇ ECZANESİ",
       "address": "",
       "phone": ""
@@ -3996,11 +2834,6 @@
       "phone": ""
     },
     {
-      "name": "YARIMCA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "GİZEM ECZANESİ",
       "address": "Yenişehir Mah. Yılmaz Sokak No:2/1 İzmit -KOCAELİ",
       "phone": ""
@@ -4014,11 +2847,6 @@
     }
   ],
   "Kütahya": [
-    {
-      "name": "BEYZA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
     {
       "name": "SİBEL ECZANESİ",
       "address": "Gaybiefendi Mahallesi Gaybiefendi Caddesi No:29/A MERKEZ/KÜTAHYA Belediye Binası Arkası Cuma Pazarı Karşısı Sultan Market Çaprazı",
@@ -4189,11 +3017,6 @@
       "phone": ""
     },
     {
-      "name": "MERKEZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "BİLGE ECZANESİ",
       "address": "",
       "phone": ""
@@ -4201,316 +3024,17 @@
   ],
   "Mardin": [
     {
-      "name": "FARABİ  ECZANESİ",
+      "name": "DOĞA ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ZEYTİN ECZANESİ",
+      "name": "AKKUŞ  ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "EDİBE  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞİFA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DEĞER ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÖZDEMİR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KAVAK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÇINARBAŞ  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TACAR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "AVA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ORMAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MALİK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SEMİH ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YAŞAM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÖNGÜN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SEHER ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "FIRAT  ECZANESİ",
-      "address": "",
-      "phone": ""
-    }
-  ],
-  "Mersin": [
-    {
-      "name": "AKBELEN ECZANESİ",
-      "address": "",
-      "phone": "4441329"
-    },
-    {
-      "name": "AKDENİZ GÜNEŞ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÖKÇE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KÜBRA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MERSİN ŞEHİR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MERVE ÖNEL ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SİBEL KOÇAK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TECE PLUS ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "VOLKAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YENİ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BURCU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GANNEMOĞLU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MAVİ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÖZKARA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "FIRAT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YONCA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÖMÜR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÖNEN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SABAH ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ZEYNEL ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "NİL ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DEVA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "EFKAN ECZANESİ",
-      "address": "Limonluk Mah. 18. Cad. No:83/A Kat:2-3 Yenişehir-Mersin",
-      "phone": ""
-    }
-  ],
-  "Muğla": [
-    {
-      "name": "ŞİMŞEK  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SAHIN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÇAGRI BAYIR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "OKTAY ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SAGLIK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TERAPİ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞİFA  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SÖNMEZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "CAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "NEFES  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TURUNÇ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÜLKÜ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SARI  ECZANESİ",
-      "address": "Selimiye Mahallesi, Cumhuriyet_2 Caddesi No:24",
-      "phone": ""
-    },
-    {
-      "name": "ÖREN YALI ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "CAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SALTIK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BALCI ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TÜRKMEN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ALTAY ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "UĞUR  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SAĞLIK  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TÜRKMEN ECZANESİ",
+      "name": "VERESELİ CENG ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -4520,106 +3044,109 @@
       "phone": ""
     },
     {
-      "name": "OVACIK   ECZANESİ",
+      "name": "ÖMER ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "MERVE ECZANESİ",
+      "name": "YENİ  ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "CEM ECZANESİ",
+      "name": "SEYHAN ECZANESİ",
       "address": "",
       "phone": ""
     },
-    {
-      "name": "YASEMİN ECZANESİ",
-      "address": "Merkez mh. 3 Nolu Bulvar No:71",
-      "phone": ""
-    },
-    {
-      "name": "BAL  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ANADOLU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "LETOON  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SEVER ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ESKİ DATÇA  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DOGA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ULA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÖZKAYNAK ECZANESİ",
-      "address": "",
-      "phone": ""
-    }
-  ],
-  "Muş": [
-    {
-      "name": "UMUT ECZANESİ",
-      "address": "Bahçelievler Mahallesi Abdulrezzak Ceylan Caddesi No:17",
-      "phone": ""
-    },
-    {
-      "name": "YAŞAM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞİFA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KORKUT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MERVE  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SIFA ECZANESİ",
-      "address": "",
-      "phone": ""
-    }
-  ],
-  "Nevşehir": [
     {
       "name": "HUZUR ECZANESİ",
-      "address": "Cevher Dudayev Mh. Şehit Şenol Coşkun Sk. No:1/1 NEVŞEHİR",
+      "address": "",
       "phone": ""
     },
     {
-      "name": "EGE ECZANESİ",
+      "name": "OKTAY ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "İPEK ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "GÜNDÜZ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ARYA ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "BAHÇELİEVLER MAHALLESİ NUJİN CADDESİ EKO ÇİFÇİLER MARKET YANI NO:24/B ARYA ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "FORİA ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ZELAL ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "İDİL ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "CUDİ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "DENİZ ECZANESİ",
+      "address": "",
+      "phone": ""
+    }
+  ],
+  "Mersin": [
+    {
+      "name": "AHU ECZANESİ",
+      "address": "",
+      "phone": "4441329"
+    },
+    {
+      "name": "BEYDAĞI ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "BOZDAĞ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ÇEKO ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "GÜLFİDAN ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "HACETTEPE ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "HELİN ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -4629,72 +3156,261 @@
       "phone": ""
     },
     {
-      "name": "AVANOS ECZANESİ",
-      "address": "Bahçelievler Mah. Saruhan Cad. No:1   AVANOS",
-      "phone": ""
-    },
-    {
-      "name": "YENI ECZANESİ",
+      "name": "SERA ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "APAYDIN ECZANESİ",
+      "name": "TÜLİN ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "BEKTAS ECZANESİ",
+      "name": "ANADOLU ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "SARIASLAN ECZANESİ",
+      "name": "ÇAKIR ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ATAN ECZANESİ",
+      "name": "HAYAT ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "SÖYLEMEZOĞLU ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "AKDENİZ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ERDAL ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ÇEREKÇİ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ARIKAN ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "COŞAR ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "HAKAN ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "SAĞLIK ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "AYDINCIK ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "YAŞAM ECZANESİ",
+      "address": "Limonluk Mah. 18. Cad. No:83/A Kat:2-3 Yenişehir-Mersin",
+      "phone": ""
+    }
+  ],
+  "Muğla": [
+    {
+      "name": "GÖKÇE ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "YERKESIK ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "BURCU ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "BERIL ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "MUMCULAR ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "DURUSU  ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "CANSEL ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "BODRUM TURUNÇ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ORFOZ ECZANESİ",
+      "address": "Türkbükü  Mahallesi 88. Sokak No:6C/2",
+      "phone": ""
+    },
+    {
+      "name": "MARMARİS  ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "HEKIMOGLU ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "BULVAR  ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ÇAKIRÖZ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "KORKMAZ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "HAYAL ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "OKUR ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "KÜNKÇÜ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "DENIZ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "MAVI ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "TUĞBA  ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ÇAGRI ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "DENIZ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ESENKÖY DEFNE ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "KADIKÖY ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "HELVACIOĞLU  ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "YENI ECZANE ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "BEYOBASI ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "AKÇA  ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "MÜCASIROGLU ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "KUMLUOVA  ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "SELIN ECZ. ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ANIL  ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "SAHIN ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "SENER ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "CEM ECZANESİ",
       "address": "",
       "phone": ""
     }
   ],
+  "Muş": [],
+  "Nevşehir": [],
   "Niğde": [
-    {
-      "name": "BÜŞRA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ERAT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HATIPOGLU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DENİZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "NESLİHAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ARSLAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BİLGE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
     {
       "name": "BÜŞRA ECZANESİ",
       "address": "İstiklal Mah. Şehit Abdulkadir Tanık Cad. No:58B",
@@ -4716,11 +3432,6 @@
       "phone": ""
     },
     {
-      "name": "NESLİHAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "ARSLAN ECZANESİ",
       "address": "Aşağı Kaybaşı Mahallesi Gazeteci İsmet Sayın Cad. Bina No:37/2C",
       "phone": ""
@@ -4734,123 +3445,42 @@
   "Ordu": [],
   "Osmaniye": [
     {
-      "name": "ŞEBNEM ECZANESİ",
+      "name": "ÇİMEN ECZANESİ",
       "address": "",
       "phone": "03288126561"
     },
     {
-      "name": "AKGÜL ECZANESİ",
+      "name": "YALÇIN ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "KARAMAN ECZANESİ",
+      "name": "EMRE ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "UĞUR ECZANESİ",
+      "name": "EYLÜL ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "DILSAD ECZANESİ",
+      "name": "DÜZIÇI ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ANDIRIN ECZANESİ",
+      "name": "SEMİH GÜL ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "TOPRAKKALE ECZANESİ",
+      "name": "ARSLANTAŞ ECZANESİ",
       "address": "Dr. Devlet Bahçeli Bulvarı 2. Etap EGM Apartmanı Kat: 2 No: 101 OSMANİYE",
       "phone": ""
     }
   ],
-  "Rize": [
-    {
-      "name": "SEVGİ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SEVGİ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BILSEL ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BILSEL ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞİFA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞİFA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "VEFA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "VEFA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YILDIRIM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YILDIRIM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "FINDIKLI ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "FINDIKLI ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞİFA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞİFA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MERKEZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MERKEZ ECZANESİ",
-      "address": "",
-      "phone": ""
-    }
-  ],
+  "Rize": [],
   "Sakarya": [
     {
       "name": "ÖMÜR ECZANESİ",
@@ -4858,7 +3488,22 @@
       "phone": "0264281447402642742950"
     },
     {
+      "name": "ÖMÜR ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
       "name": "ALTUNTAŞ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ALTUNTAŞ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "VITAMIN ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -4873,7 +3518,22 @@
       "phone": ""
     },
     {
+      "name": "ESRA ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
       "name": "HAYAT ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "HAYAT ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "AKAY ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -4888,7 +3548,22 @@
       "phone": ""
     },
     {
+      "name": "BURCU ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
       "name": "CİNAL ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "CİNAL ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "DEĞİRMENTEPE ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -4903,7 +3578,22 @@
       "phone": ""
     },
     {
+      "name": "HAKAN ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
       "name": "ITIR ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ITIR ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "KARASU ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -4918,7 +3608,22 @@
       "phone": ""
     },
     {
+      "name": "NİSA ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
       "name": "ŞEN ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ŞEN ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ŞENGÜL ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -4933,7 +3638,22 @@
       "phone": ""
     },
     {
+      "name": "UMUT ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
       "name": "ÜNLÜ TEBESSÜM ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ÜNLÜ TEBESSÜM ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "ZEYNEP ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -4975,11 +3695,6 @@
       "phone": ""
     },
     {
-      "name": "ÇAKIRLAR  ECZANESİ  -",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "ÇELİK ECZANESİ  -",
       "address": "",
       "phone": ""
@@ -5073,55 +3788,9 @@
       "name": "GÜÇLÜ  ECZANESİ  -",
       "address": "",
       "phone": ""
-    },
-    {
-      "name": "ÖZLEM  ECZANESİ  -",
-      "address": "",
-      "phone": ""
     }
   ],
-  "Siirt": [
-    {
-      "name": "DÜNYA ECZANESİ",
-      "address": "No:3. Merkez / SİİRT",
-      "phone": ""
-    },
-    {
-      "name": "DEVA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DERMAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "VOLKAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SENA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ELİF ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SAĞLIK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SENA ECZANESİ",
-      "address": "",
-      "phone": ""
-    }
-  ],
+  "Siirt": [],
   "Sinop": [
     {
       "name": "DERMAN ECZANESİ  -",
@@ -5154,11 +3823,6 @@
       "phone": ""
     },
     {
-      "name": "ÇAKIRLAR  ECZANESİ  -",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "ÇELİK ECZANESİ  -",
       "address": "",
       "phone": ""
@@ -5252,19 +3916,9 @@
       "name": "GÜÇLÜ  ECZANESİ  -",
       "address": "",
       "phone": ""
-    },
-    {
-      "name": "ÖZLEM  ECZANESİ  -",
-      "address": "",
-      "phone": ""
     }
   ],
   "Sivas": [
-    {
-      "name": "YENİ EMEK ECZANESİ",
-      "address": "Emek Sağlık Ocağı Karşısı Emek Mah. Buhara Cad. No:30/A",
-      "phone": ""
-    },
     {
       "name": "ECE ECZANESİ",
       "address": "Yeni Numune Hastanesi Acil Çıkışı Kardeşler mah.Sııhıye cad.No:28/a",
@@ -5276,32 +3930,12 @@
       "phone": ""
     },
     {
-      "name": "KILIÇKAYA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ARMAĞAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "ÖMÜR ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
       "name": "UMUT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SIFA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "UMUT SIFA ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -5321,32 +3955,27 @@
       "phone": ""
     },
     {
-      "name": "İYİLİK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SAĞLIK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KARACALAR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "CAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÖZDE ECZANESİ",
       "address": "",
       "phone": ""
     }
   ],
   "Şanlıurfa": [
+    {
+      "name": "ATAŞEHİR ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "EDANUR ECZANESİ(karaköprü)",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "BÜR ECZANESİ(EYYÜBİYE)",
+      "address": "",
+      "phone": ""
+    },
     {
       "name": "DAMLA ECZANESİ(EYYÜBİYE)",
       "address": "",
@@ -5369,21 +3998,6 @@
     },
     {
       "name": "ODUNPAZARI ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ATAŞEHİR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "EDANUR ECZANESİ(karaköprü)",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BÜR ECZANESİ(EYYÜBİYE)",
       "address": "",
       "phone": ""
     },
@@ -5423,12 +4037,12 @@
       "phone": ""
     },
     {
-      "name": "ERCİYES ECZANESİ",
+      "name": "GÜNEŞ ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "SİVEREK ECZANESİ",
+      "name": "ERCİYES ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -5445,391 +4059,105 @@
   ],
   "Şırnak": [
     {
-      "name": "FARABİ  ECZANESİ",
+      "name": "DOĞA ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ZEYTİN ECZANESİ",
+      "name": "AKKUŞ  ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "EDİBE  ECZANESİ",
+      "name": "VERESELİ CENG ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ŞİFA ECZANESİ",
+      "name": "GÜL ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "DEĞER ECZANESİ",
+      "name": "ÖMER ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ÖZDEMİR ECZANESİ",
+      "name": "YENİ  ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "KAVAK ECZANESİ",
+      "name": "SEYHAN ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ÇINARBAŞ  ECZANESİ",
+      "name": "HUZUR ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "TACAR ECZANESİ",
+      "name": "OKTAY ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "AVA ECZANESİ",
+      "name": "İPEK ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ORMAN ECZANESİ",
+      "name": "GÜNDÜZ ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "MALİK ECZANESİ",
+      "name": "ARYA ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "SEMİH ECZANESİ",
+      "name": "BAHÇELİEVLER MAHALLESİ NUJİN CADDESİ EKO ÇİFÇİLER MARKET YANI NO:24/B ARYA ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "YAŞAM ECZANESİ",
+      "name": "FORİA ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "ÖNGÜN ECZANESİ",
+      "name": "ZELAL ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "SEHER ECZANESİ",
+      "name": "İDİL ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "FIRAT  ECZANESİ",
+      "name": "CUDİ ECZANESİ",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "name": "DENİZ ECZANESİ",
       "address": "",
       "phone": ""
     }
   ],
-  "Tekirdağ": [
-    {
-      "name": "DERMAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "MELİS ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "EKİN ÇETİNKAYA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞEHNUR ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÜNDÜZ  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞENTÜRK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "UZUNKÖPRÜ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ZELİŞ   ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BİLGE  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HİLAL BELEN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "OKAY   ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ALTINTAŞ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "EREZ  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BİLİR  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ZAFER   ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KILIÇER ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SARAY  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DOĞUŞ   ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YENİÇİFTLİK  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BELEN   ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "İNAN   ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÜNEŞ ECZANESİ",
-      "address": "",
-      "phone": ""
-    }
-  ],
+  "Tekirdağ": [],
   "Trabzon": [
     {
-      "name": "KONAK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KONAK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YENİ ÇAĞLAYAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YENİ ÇAĞLAYAN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÇAĞLA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÇAĞLA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÖZTUNA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÖZTUNA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TALİP ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TALİP ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YAĞMUR  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YAĞMUR  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "EBRU  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "EBRU  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KÜBRA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KÜBRA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HAYAT  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HAYAT  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÇAĞLAR  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÇAĞLAR  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DOĞA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "DOĞA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KAYA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "KAYA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "RIZA  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "RIZA  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "CEREN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "CEREN ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HAYAT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HAYAT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "ÇİĞDEM ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
       "name": "ÇİĞDEM ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "CENGİZHAN  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "CENGİZHAN  ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SEMİH ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SEMİH ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞİFA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ŞİFA ECZANESİ",
       "address": "",
       "phone": ""
     }
@@ -5905,41 +4233,6 @@
       "phone": ""
     },
     {
-      "name": "ELBAK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HALK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÖNÜL ECZANESİ",
-      "address": "Yenişehir Mah.Hast.Cad.No:53",
-      "phone": ""
-    },
-    {
-      "name": "GEVAŞ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "GÜZELSU ECZANESİ",
-      "address": "Akpınar Mahallesi Hastane yolu üzeri Mezbaha Caddesi No:1",
-      "phone": ""
-    },
-    {
-      "name": "YAŞAM ECZANESİ",
-      "address": "Atatürk Mahallesi 3 Nisan No:71",
-      "phone": ""
-    },
-    {
-      "name": "YENI SIFA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "ÇATAK ECZANESİ",
       "address": "",
       "phone": ""
@@ -5995,11 +4288,6 @@
       "phone": ""
     },
     {
-      "name": "MAVİ ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "AKİ ECZANESİ",
       "address": "",
       "phone": ""
@@ -6007,12 +4295,12 @@
   ],
   "Yozgat": [
     {
-      "name": "KESKİN ECZANESİ",
+      "name": "AYDIN ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "TURAN ECZANESİ",
+      "name": "AYÇIÇEK ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -6022,8 +4310,8 @@
       "phone": ""
     },
     {
-      "name": "MURAT ECZANESİ",
-      "address": "Çarşı Mah. Kınalı Mustafa Erdoğan Cad. No:15/A",
+      "name": "EMİN ECZANESİ",
+      "address": "Çarşı Mah. Şevket Hokkaömeroğlu Bulv. No:6/A",
       "phone": ""
     },
     {
@@ -6032,38 +4320,38 @@
       "phone": ""
     },
     {
-      "name": "TEMEL ECZANESİ",
+      "name": "SOYLU ECZANESİ",
+      "address": "Bağlarbaşı Mah. Tekke Cad. No:5/4",
+      "phone": ""
+    },
+    {
+      "name": "ÇAKIROGLU ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "LAVANTA ECZANESİ",
-      "address": "Yeni Yol Mah. Milli Egemenlik Cad. No:35/E  Çekerek/YOZGAT",
+      "name": "FATİH  ECZANESİ",
+      "address": "Kadıoğlu Mah.Cumhuriyet Bulvarı No:83/B",
       "phone": ""
     },
     {
-      "name": "AKIN ECZANESİ",
+      "name": "DİLA ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "NİHAN  ECZANESİ",
+      "name": "YILDIZ ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
-      "name": "AĞGÜL ECZANESİ",
-      "address": "Kaplıca Mah Baran Cad No:53/F",
+      "name": "ENİSE NUR ECZANESİ",
+      "address": "Sorgun devlet hastanesi karşısı   Ahmet Efendi Mah. Şehit Cemal Şimşek Cad. No:28A/11",
       "phone": ""
     },
     {
-      "name": "MUTLU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YENİ ECZANESİ",
-      "address": "",
+      "name": "BÜYÜKATA ECZANESİ",
+      "address": "Bahçeli Evler Mah.Atatürk Bulvarı Şensoylar Apt.No:12/41",
       "phone": ""
     },
     {
@@ -6072,8 +4360,8 @@
       "phone": ""
     },
     {
-      "name": "HELİN ECZANESİ",
-      "address": "Erdoğan Akdağ Mh. Gaziler Cad. Tk 2 Kat:1 No: 9 Merkez/Yozgat",
+      "name": "FATİH ECZANESİ",
+      "address": "Ayanoğlu Mah.Kırşehir Cad.No:78/A",
       "phone": ""
     }
   ],
@@ -6089,17 +4377,7 @@
       "phone": ""
     },
     {
-      "name": "MÜGE ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "ARZU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÇAGLAR ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -6114,22 +4392,12 @@
       "phone": ""
     },
     {
-      "name": "EBRU ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
       "name": "DEMİRAY  ECZANESİ",
       "address": "",
       "phone": ""
     },
     {
       "name": "MÜGE İLAYDA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BÜŞRA ECZANESİ",
       "address": "",
       "phone": ""
     },
@@ -6150,31 +4418,6 @@
     },
     {
       "name": "SAGLIK ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "BIRINCI ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "TUBA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SERHAT ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "SALTUKOVA ECZANESİ",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "HISARÖNÜ ECZANESİ",
       "address": "",
       "phone": ""
     },
