@@ -1,30 +1,6 @@
 {
   "Adana": [
     {
-      "name": "BOTANİK ECZANESİ",
-      "ilce": "",
-      "address": "GÜRSELPAŞA MAH. ŞEHİT POLİS ŞAHİN POLAT AYDIN CAD. (REAL M1 AVM KAVŞAĞINDAN GÜRSELPAŞA'YA AÇILAN YOL) ŞOK MARKET KARŞISI NEFES REZİDANS ALTI",
-      "phone": "03225037363"
-    },
-    {
-      "name": "ÖMER FARUK ECZANESİ",
-      "ilce": "",
-      "address": "ESKİ NUMUNE HASTANESİ KARŞISI AŞKIM TÜFEKÇİ HASTANESİ YANI",
-      "phone": "05331563404"
-    },
-    {
-      "name": "AYHAN ECZANESİ",
-      "ilce": "",
-      "address": "TELLİDERE MAHALLESİ 72083 SOKAK NO: 22 KARABULUT MOBİLYA SOKAĞINDAN GİRİŞ TELLİDERE ASM YANI",
-      "phone": "3222252588"
-    },
-    {
-      "name": "HARMAN ECZANESİ",
-      "ilce": "",
-      "address": "OTO GALERİCİLER SİTESİ CİVARI YEŞİLOBA ASM YANI",
-      "phone": "03224290304"
-    },
-    {
       "name": "DAĞLIOĞLU ECZANESİ",
       "ilce": "",
       "address": "DAĞLIOĞLU SAĞLIK OCAĞI VE KARAKOL KARŞISI",
@@ -61,16 +37,28 @@
       "phone": "03224283015"
     },
     {
-      "name": "LOTUS ECZANESİ",
+      "name": "BOTANİK ECZANESİ",
       "ilce": "",
-      "address": "MAHFESIĞMAZ MAH. DAMAR ARIKOĞLU BULV. TURGUT ÖZAL AKSAGAZ KAVŞAĞI İLE KENAN EVREN ÇUKUROVA ELEKTRİK KAVŞAĞI ARASI BULVAR ÜZERİ FİNAL OKULU KARŞISI",
-      "phone": "05522565500"
+      "address": "GÜRSELPAŞA MAH. ŞEHİT POLİS ŞAHİN POLAT AYDIN CAD. (REAL M1 AVM KAVŞAĞINDAN GÜRSELPAŞA'YA AÇILAN YOL) ŞOK MARKET KARŞISI NEFES REZİDANS ALTI",
+      "phone": "03225037363"
     },
     {
-      "name": "EDA GÖKÇE ECZANESİ",
+      "name": "ÖMER FARUK ECZANESİ",
       "ilce": "",
-      "address": "KURTTEPE MAH. SÜLEYMAN DEMİREL BULV. ÖZGÜ APT. NO:98/G GÜNDOĞDU OKULLARINDAN SÜLEYMAN DEMİREL BULVARINA DOĞRU GİDERKEN 500 METRE İLERİDE SOL TARAFTA",
-      "phone": "03222487767"
+      "address": "ESKİ NUMUNE HASTANESİ KARŞISI AŞKIM TÜFEKÇİ HASTANESİ YANI",
+      "phone": "05331563404"
+    },
+    {
+      "name": "AYHAN ECZANESİ",
+      "ilce": "",
+      "address": "TELLİDERE MAHALLESİ 72083 SOKAK NO: 22 KARABULUT MOBİLYA SOKAĞINDAN GİRİŞ TELLİDERE ASM YANI",
+      "phone": "3222252588"
+    },
+    {
+      "name": "HARMAN ECZANESİ",
+      "ilce": "",
+      "address": "OTO GALERİCİLER SİTESİ CİVARI YEŞİLOBA ASM YANI",
+      "phone": "03224290304"
     },
     {
       "name": "MERMERLER ECZANESİ",
@@ -85,16 +73,16 @@
       "phone": "03222349941"
     },
     {
-      "name": "ÇAMLICA ECZANESİ",
+      "name": "LOTUS ECZANESİ",
       "ilce": "",
-      "address": "SELAHATTİN EYYÜBİ MAH. 3795 SOK. NO:44 ÖZEL İSA ALATAŞ TIP MERKEZİ CİVARI MEHMET ADİL İKİZ ORTAOKULU YOLUNUN GÜNEY KARŞISI",
-      "phone": "03223290022"
+      "address": "MAHFESIĞMAZ MAH. DAMAR ARIKOĞLU BULV. TURGUT ÖZAL AKSAGAZ KAVŞAĞI İLE KENAN EVREN ÇUKUROVA ELEKTRİK KAVŞAĞI ARASI BULVAR ÜZERİ FİNAL OKULU KARŞISI",
+      "phone": "05522565500"
     },
     {
-      "name": "ÇALIŞIR ECZANESİ",
+      "name": "EDA GÖKÇE ECZANESİ",
       "ilce": "",
-      "address": "YAVUZLAR MAHALLESİ YAVUZLAR ORTAOKULU KARŞISI, YÜREĞİR BELEDİYESİ CİVARI",
-      "phone": "03223211589"
+      "address": "KURTTEPE MAH. SÜLEYMAN DEMİREL BULV. ÖZGÜ APT. NO:98/G GÜNDOĞDU OKULLARINDAN SÜLEYMAN DEMİREL BULVARINA DOĞRU GİDERKEN 500 METRE İLERİDE SOL TARAFTA",
+      "phone": "03222487767"
     },
     {
       "name": "YUSUF ECZANESİ",
@@ -109,6 +97,18 @@
       "phone": "03223288875"
     },
     {
+      "name": "ÇAMLICA ECZANESİ",
+      "ilce": "",
+      "address": "SELAHATTİN EYYÜBİ MAH. 3795 SOK. NO:44 ÖZEL İSA ALATAŞ TIP MERKEZİ CİVARI MEHMET ADİL İKİZ ORTAOKULU YOLUNUN GÜNEY KARŞISI",
+      "phone": "03223290022"
+    },
+    {
+      "name": "ÇALIŞIR ECZANESİ",
+      "ilce": "",
+      "address": "YAVUZLAR MAHALLESİ YAVUZLAR ORTAOKULU KARŞISI, YÜREĞİR BELEDİYESİ CİVARI",
+      "phone": "03223211589"
+    },
+    {
       "name": "RAVLI ECZANESİ",
       "ilce": "",
       "address": "GÜLTEPE MAH. İLİM YOLU BULVARI HANZADE KEBAP SALONU YAKINI",
@@ -119,42 +119,6 @@
       "ilce": "",
       "address": "BATIKENT TIP MERKEZİ KARŞISI ŞAHİN BALO SALONU ARKASI YILDIRIM BEYAZIT MAH. 503 SOK. NO:26/B1",
       "phone": "03223411559"
-    },
-    {
-      "name": "MERVE AKÇAYIR ECZANESİ",
-      "ilce": "",
-      "address": "ALADAĞ HASTANESİ CİVARI PTT YANI",
-      "phone": "05055963701"
-    },
-    {
-      "name": "SENA ECZANESİ",
-      "ilce": "",
-      "address": "DERVİŞİYE MAH. ATATÜRK YUMURTALIK BULV.YUMURTALIK MERKEZ SAĞLIK OCAĞI KARŞISI NO:71",
-      "phone": "03225045699"
-    },
-    {
-      "name": "AYTEN ECZANESİ",
-      "ilce": "",
-      "address": "KEMALİYE MAH. ATATÜRK CAD. EVE MAĞAZASI YANI ÇARŞI A101 MARKET VE ŞOK MARKET ARASI",
-      "phone": "3226812263"
-    },
-    {
-      "name": "GİZEM ECZANESİ",
-      "ilce": "",
-      "address": "FEKE İLÇE DEVLET HASTANESİ KARŞI ÇAPRAZI",
-      "phone": "03227412576"
-    },
-    {
-      "name": "YILDIZ ECZANESİ",
-      "ilce": "",
-      "address": "EMNİYET MÜDÜRLÜĞÜ ARKASI 5 NOLU SAĞLIK OCAĞI KARŞISI",
-      "phone": "03225152787"
-    },
-    {
-      "name": "EROĞLU ECZANESİ",
-      "ilce": "",
-      "address": "MEZARLIK YOLU ÜZERİ 4 NOLU SAĞLIK OCAĞI KARŞISI",
-      "phone": "05452215598"
     },
     {
       "name": "ARİF DÖŞLÜ ECZANESİ",
@@ -203,6 +167,42 @@
       "ilce": "",
       "address": "GÜL PASTANESİ YANI",
       "phone": "03227612626"
+    },
+    {
+      "name": "MERVE AKÇAYIR ECZANESİ",
+      "ilce": "",
+      "address": "ALADAĞ HASTANESİ CİVARI PTT YANI",
+      "phone": "05055963701"
+    },
+    {
+      "name": "SENA ECZANESİ",
+      "ilce": "",
+      "address": "DERVİŞİYE MAH. ATATÜRK YUMURTALIK BULV.YUMURTALIK MERKEZ SAĞLIK OCAĞI KARŞISI NO:71",
+      "phone": "03225045699"
+    },
+    {
+      "name": "AYTEN ECZANESİ",
+      "ilce": "",
+      "address": "KEMALİYE MAH. ATATÜRK CAD. EVE MAĞAZASI YANI ÇARŞI A101 MARKET VE ŞOK MARKET ARASI",
+      "phone": "3226812263"
+    },
+    {
+      "name": "GİZEM ECZANESİ",
+      "ilce": "",
+      "address": "FEKE İLÇE DEVLET HASTANESİ KARŞI ÇAPRAZI",
+      "phone": "03227412576"
+    },
+    {
+      "name": "YILDIZ ECZANESİ",
+      "ilce": "",
+      "address": "EMNİYET MÜDÜRLÜĞÜ ARKASI 5 NOLU SAĞLIK OCAĞI KARŞISI",
+      "phone": "03225152787"
+    },
+    {
+      "name": "EROĞLU ECZANESİ",
+      "ilce": "",
+      "address": "MEZARLIK YOLU ÜZERİ 4 NOLU SAĞLIK OCAĞI KARŞISI",
+      "phone": "05452215598"
     }
   ],
   "Adıyaman": [
@@ -901,18 +901,6 @@
       "phone": "02664164747"
     },
     {
-      "name": "SELÇUK ECZANESİ",
-      "ilce": "",
-      "address": "- BURHANİYE",
-      "phone": "02664164530"
-    },
-    {
-      "name": "ALPİN ECZANESİ",
-      "ilce": "",
-      "address": "GECE 20:00 ´A KADAR NÖBETÇİDİR.",
-      "phone": "02663848434"
-    },
-    {
       "name": "ZUHAL YARMA ECZANESİ",
       "ilce": "",
       "address": "- DURSUNBEY",
@@ -1003,12 +991,6 @@
       "phone": "02663841927"
     },
     {
-      "name": "EROL ECZANESİ",
-      "ilce": "",
-      "address": "- SARIMSAKLI",
-      "phone": "02663122965"
-    },
-    {
       "name": "BİLGE ECZANESİ",
       "ilce": "",
       "address": "İnönü Cd.No:97/C",
@@ -1029,22 +1011,10 @@
       "phone": "03722400670"
     },
     {
-      "name": "MÜGE ECZANESİ",
-      "ilce": "",
-      "address": "ZONGULDAK - İNCİVEZ",
-      "phone": "03722571115"
-    },
-    {
       "name": "DERMAN ECZANESİ",
       "ilce": "",
       "address": "ZONGULDAK - KOZLU",
       "phone": "03722668989"
-    },
-    {
-      "name": "YEDİTEPE ECZANESİ",
-      "ilce": "",
-      "address": "ZONGULDAK - KOZLU FATİH SİTESİ",
-      "phone": "03722662423"
     },
     {
       "name": "BOZKURT ECZANESİ",
@@ -1059,12 +1029,6 @@
       "phone": "03722656676"
     },
     {
-      "name": "EBRU ECZANESİ",
-      "ilce": "",
-      "address": "ZONGULDAK - ÇATALAĞZI",
-      "phone": "03722641064"
-    },
-    {
       "name": "GÜR ECZANESİ",
       "ilce": "",
       "address": "KDZ. EREĞLİ",
@@ -1075,12 +1039,6 @@
       "ilce": "",
       "address": "KDZ. EREĞLİ - KEPEZ",
       "phone": "03723228737"
-    },
-    {
-      "name": "BÜŞRA ECZANESİ",
-      "ilce": "",
-      "address": "KDZ. EREĞLİ - SUBAŞI",
-      "phone": "03723230666"
     },
     {
       "name": "ALAPLI ECZANESİ",
@@ -1105,36 +1063,6 @@
       "ilce": "",
       "address": "YARIN SABAH SAAT , 08:30'A KADAR NÖBETÇİDİR.",
       "phone": "03726157954"
-    },
-    {
-      "name": "BIRINCI ECZANESİ",
-      "ilce": "",
-      "address": "ÇAYCUMA - PERŞEMBE",
-      "phone": "03726386136"
-    },
-    {
-      "name": "TUBA ECZANESİ",
-      "ilce": "",
-      "address": "ÇAYCUMA - KARAPINAR",
-      "phone": "03726283330"
-    },
-    {
-      "name": "SERHAT ECZANESİ",
-      "ilce": "",
-      "address": "ÇAYCUMA - NEBİOĞLU",
-      "phone": "03726386030"
-    },
-    {
-      "name": "SALTUKOVA ECZANESİ",
-      "ilce": "",
-      "address": "ÇAYCUMA - SALTUKOVA",
-      "phone": "03726182010"
-    },
-    {
-      "name": "HISARÖNÜ ECZANESİ",
-      "ilce": "",
-      "address": "ÇAYCUMA - HİSARÖNÜ",
-      "phone": "03726231064"
     },
     {
       "name": "TURKUAZ ECZANESİ",
@@ -1351,16 +1279,16 @@
       "phone": "05011556265"
     },
     {
-      "name": "HANÇER ECZANESİ",
-      "ilce": "",
-      "address": "Devlet Hastanesi Karşısı Kışla Mah. Şehitler Cad.Dış Kapı No:77 İç Kapı No:26",
-      "phone": "05432043932"
-    },
-    {
       "name": "DEVA ECZANESİ",
       "ilce": "",
       "address": "BEYAZIT MAH.ZEYDAN CAD.NO:24",
       "phone": "04323513233"
+    },
+    {
+      "name": "HANÇER ECZANESİ",
+      "ilce": "",
+      "address": "Devlet Hastanesi Karşısı Kışla Mah. Şehitler Cad.Dış Kapı No:77 İç Kapı No:26",
+      "phone": "05432043932"
     },
     {
       "name": "BAŞKALE ECZANESİ",
@@ -1391,12 +1319,6 @@
       "ilce": "",
       "address": "ÇAVUŞTEPE MAH.ÇAVUŞTEPE SK.ÇAVUŞTEPE CAMİİ ÖNÜ NO:136",
       "phone": "05515092165"
-    },
-    {
-      "name": "YAŞAM ECZANESİ",
-      "ilce": "",
-      "address": "Atatürk Mahallesi 3 Nisan No:71",
-      "phone": "04327812465"
     },
     {
       "name": "FATİH ECZANESİ",
@@ -1530,6 +1452,24 @@
   "Burdur": [],
   "Bursa": [
     {
+      "name": "MELEK ŞİFA ECZANESİ",
+      "ilce": "",
+      "address": "KURTULUŞ MAH. 4(510).SOK. D-BLOK NO:17",
+      "phone": "02244418261"
+    },
+    {
+      "name": "BENGİSU ECZANESİ",
+      "ilce": "",
+      "address": "ALTINŞEHİR MAH. ABDİ İPEKÇİ CAD. NO:42",
+      "phone": "02242493838"
+    },
+    {
+      "name": "ŞEREMET ECZANESİ",
+      "ilce": "",
+      "address": "İHSANİYE MAH. ZİYA GÜNEY CAD. NO:17",
+      "phone": "0224245683902242493907"
+    },
+    {
       "name": "KOÇOĞLU ECZANESİ",
       "ilce": "",
       "address": "KONAK MAH. MUTLU SOK. NO:11",
@@ -1552,30 +1492,6 @@
       "ilce": "",
       "address": "ATAEVLER MAH. GAZİOSMANPAŞA CAD. NO:13F/A",
       "phone": "05448812930"
-    },
-    {
-      "name": "MELEK ŞİFA ECZANESİ",
-      "ilce": "",
-      "address": "KURTULUŞ MAH. 4(510).SOK. D-BLOK NO:17",
-      "phone": "02244418261"
-    },
-    {
-      "name": "BENGİSU ECZANESİ",
-      "ilce": "",
-      "address": "ALTINŞEHİR MAH. ABDİ İPEKÇİ CAD. NO:42",
-      "phone": "02242493838"
-    },
-    {
-      "name": "ŞEREMET ECZANESİ",
-      "ilce": "",
-      "address": "İHSANİYE MAH. ZİYA GÜNEY CAD. NO:17",
-      "phone": "0224245683902242493907"
-    },
-    {
-      "name": "ASUMAN ECZANESİ",
-      "ilce": "",
-      "address": "- OSMANGAZİ",
-      "phone": "02242430042"
     },
     {
       "name": "MEYDAN ECZANESİ",
@@ -1614,10 +1530,10 @@
       "phone": "02242202887"
     },
     {
-      "name": "EZGİ ECZANESİ",
+      "name": "ASUMAN ECZANESİ",
       "ilce": "",
-      "address": "YUNUS EMRE MAH. 1.KIZILIRMAK SOK. NO:88/A",
-      "phone": "02243511141"
+      "address": "- OSMANGAZİ",
+      "phone": "02242430042"
     },
     {
       "name": "EMİRSULTAN ECZANESİ",
@@ -1638,6 +1554,12 @@
       "phone": "02243680000"
     },
     {
+      "name": "EZGİ ECZANESİ",
+      "ilce": "",
+      "address": "YUNUS EMRE MAH. 1.KIZILIRMAK SOK. NO:88/A",
+      "phone": "02243511141"
+    },
+    {
       "name": "BÜYÜKORHAN ECZANESİ",
       "ilce": "",
       "address": "- BÜYÜKORHAN",
@@ -1650,12 +1572,6 @@
       "phone": "02245132973"
     },
     {
-      "name": "FIRTINA ECZANESİ",
-      "ilce": "",
-      "address": "HİSAR MAH. KINA SOK. NO:35/I-A",
-      "phone": "02245133737"
-    },
-    {
       "name": "ÇAĞRI ECZANESİ",
       "ilce": "",
       "address": "ZAFER MAH. ZAFER MEYDANI CAD. NO:18/A",
@@ -1666,18 +1582,6 @@
       "ilce": "",
       "address": "- HARMANCIK",
       "phone": "02248812295"
-    },
-    {
-      "name": "ŞAFAK ECZANESİ",
-      "ilce": "",
-      "address": "SÜLEYMANİYE MAH. PARKYOLU CAD. NO:68/A",
-      "phone": "022471343075537134307"
-    },
-    {
-      "name": "ALPER ECZANESİ",
-      "ilce": "",
-      "address": "YUNUSEMRE MAH. MENEKŞE CAD. NO:10/C ALANYURT",
-      "phone": "02247192200"
     },
     {
       "name": "UĞUR ECZANESİ",
@@ -1698,22 +1602,10 @@
       "phone": "02246762907"
     },
     {
-      "name": "KELES ECZANESİ",
-      "ilce": "",
-      "address": "CUMA MAH. ATATÜRK CAD. NO:20/A",
-      "phone": "02248612363"
-    },
-    {
       "name": "KESTEL ŞİFA ECZANESİ",
       "ilce": "",
       "address": "VANİ MEHMET MAH. HAKİM AYTEKİN BAYSAL SOK. NO:3/A",
       "phone": "05074372687"
-    },
-    {
-      "name": "ÇALI DERMAN ECZANESİ",
-      "ilce": "",
-      "address": "- NİLÜFER - ÇALI",
-      "phone": "02244823218"
     },
     {
       "name": "KUTLUAY ECZANESİ",
@@ -2378,12 +2270,6 @@
   ],
   "Edirne": [
     {
-      "name": "GÜVEN ECZANESİ",
-      "ilce": "",
-      "address": "Bugün 23:59:00'a Kadar Açık",
-      "phone": "2842251543"
-    },
-    {
       "name": "ÇAKBİL ECZANESİ",
       "ilce": "",
       "address": "TALATPASA CAD.NO:200",
@@ -2502,12 +2388,6 @@
       "phone": "04462230333"
     },
     {
-      "name": "ÖZGE ECZANESİ",
-      "ilce": "",
-      "address": "KARARAGAÇ MAHALLESI 751. SOKAK NO:4/A",
-      "phone": "04462230714"
-    },
-    {
       "name": "GÜLİZ ECZANESİ",
       "ilce": "NO:17",
       "address": "ATATÜRK MAH HÜKÜMET CAD. NO:17/C ÇAYIRLI ERZINCAN",
@@ -2562,12 +2442,6 @@
       "ilce": "",
       "address": "Kurtuluş Mahallesi Endüstri Caddesi HİLALKENT GÜZERGAHI 4 YOL KAVŞAĞI AĞZI BAĞBAŞI KEBAP SALONU KARŞISI SANAYİ BÖLGESİ No:4",
       "phone": "04422430003"
-    },
-    {
-      "name": "ILICA ECZANESİ",
-      "ilce": "",
-      "address": "22:00'a Kadar Açık",
-      "phone": "04426312674"
     },
     {
       "name": "İBN-İ SİNA ECZANESİ",
@@ -2951,16 +2825,16 @@
       "phone": "05011556265"
     },
     {
-      "name": "HANÇER ECZANESİ",
-      "ilce": "",
-      "address": "Devlet Hastanesi Karşısı Kışla Mah. Şehitler Cad.Dış Kapı No:77 İç Kapı No:26",
-      "phone": "05432043932"
-    },
-    {
       "name": "DEVA ECZANESİ",
       "ilce": "",
       "address": "BEYAZIT MAH.ZEYDAN CAD.NO:24",
       "phone": "04323513233"
+    },
+    {
+      "name": "HANÇER ECZANESİ",
+      "ilce": "",
+      "address": "Devlet Hastanesi Karşısı Kışla Mah. Şehitler Cad.Dış Kapı No:77 İç Kapı No:26",
+      "phone": "05432043932"
     },
     {
       "name": "BAŞKALE ECZANESİ",
@@ -2991,12 +2865,6 @@
       "ilce": "",
       "address": "ÇAVUŞTEPE MAH.ÇAVUŞTEPE SK.ÇAVUŞTEPE CAMİİ ÖNÜ NO:136",
       "phone": "05515092165"
-    },
-    {
-      "name": "YAŞAM ECZANESİ",
-      "ilce": "",
-      "address": "Atatürk Mahallesi 3 Nisan No:71",
-      "phone": "04327812465"
     },
     {
       "name": "FATİH ECZANESİ",
@@ -3077,164 +2945,7 @@
       "phone": "04384613122"
     }
   ],
-  "Hatay": [
-    {
-      "name": "TUNCAY ECZANESİ",
-      "ilce": "",
-      "address": "ALAADDİN MAH.İSO KONTEYNER KENT YANI BÖLGE HASTANESİ CİVARI",
-      "phone": "05413114031"
-    },
-    {
-      "name": "YILMAZ ECZANESİ",
-      "ilce": "",
-      "address": "GÜLDEREN PREPABRİK ÇARŞI NO:8",
-      "phone": "05422703212"
-    },
-    {
-      "name": "OKAN ECZANESİ",
-      "ilce": "",
-      "address": "SERİNYOL MAH.HATAY 2 CAD.NO:10/A MKÜ ARAŞTIRMA HASTANE KARŞISI",
-      "phone": "03265020222"
-    },
-    {
-      "name": "İDİL ECZANESİ",
-      "ilce": "",
-      "address": "ÇEKMECE MAH.ÇEKMECE CAD.NO:301/A ÇEKMECE ÜST GEÇİDİ YANI",
-      "phone": "05345141358"
-    },
-    {
-      "name": "SAGLIK ECZANESİ",
-      "ilce": "",
-      "address": "DEFNE DEVLET HASTANESİ KARŞISI",
-      "phone": "05366805569"
-    },
-    {
-      "name": "ZEHRA ECZANESİ",
-      "ilce": "",
-      "address": "ATATÜRK MAH.FAVVAR SK.NO:21/B",
-      "phone": "05340384373"
-    },
-    {
-      "name": "NİHAL GÜL ECZANESİ",
-      "ilce": "",
-      "address": "- SAMANDAĞ KARAÇAY",
-      "phone": "03265543188"
-    },
-    {
-      "name": "TÜRKER ECZANESİ",
-      "ilce": "",
-      "address": "NUMUNEEVLER MAH.ALİ ADIKUTLU CAD.72/H",
-      "phone": "03267125080"
-    },
-    {
-      "name": "IKIZ ECZANESİ",
-      "ilce": "",
-      "address": "NUMUNEEVLER MAH.ÇAYLI CAD.GARAALTI 1 NOLU SK.NO:7",
-      "phone": "03267130107"
-    },
-    {
-      "name": "DENİZCİLER ECZANESİ",
-      "ilce": "",
-      "address": "- İSKENDERUN-2",
-      "phone": "03266452299"
-    },
-    {
-      "name": "DİLARA ECZANESİ",
-      "ilce": "",
-      "address": "- İSKENDERUN-2",
-      "phone": "03266154095"
-    },
-    {
-      "name": "BÜLENT ECZANESİ",
-      "ilce": "",
-      "address": "- İSKENDERUN",
-      "phone": "03266181166"
-    },
-    {
-      "name": "GÜLER ECZANESİ",
-      "ilce": "",
-      "address": "- İSKENDERUN",
-      "phone": "03266133031"
-    },
-    {
-      "name": "KARABULAK ECZANESİ",
-      "ilce": "",
-      "address": "KÜRTÜL MAH.ATATÜRK CAD.SERİN SK.4/A",
-      "phone": "03267555245"
-    },
-    {
-      "name": "KÜBRA ECZANESİ",
-      "ilce": "",
-      "address": "Hassa caddesi Tayfur Sökmen bulvarı 3 nolu göçmen sağlığı karşısı",
-      "phone": "03263451111"
-    },
-    {
-      "name": "KURŞUN ECZANESİ",
-      "ilce": "",
-      "address": "CUMHURİYET MAH.CUMHURİYET CAD.NO:45",
-      "phone": "05456366000"
-    },
-    {
-      "name": "TUĞÇE ECZANESİ",
-      "ilce": "",
-      "address": "ADABUCAK MAH.REŞİT İHSAN BAHADIR CAD.68/A",
-      "phone": "05393479468"
-    },
-    {
-      "name": "ULUÇINAR ECZANESİ",
-      "ilce": "",
-      "address": "ULUÇINAR MAH. AKDENİZ 6 CAD. NO:114",
-      "phone": "03266432399"
-    },
-    {
-      "name": "KONAK ECZANESİ",
-      "ilce": "",
-      "address": "- ARSUZ KARAAĞAÇ",
-      "phone": "05373133664"
-    },
-    {
-      "name": "ALTUN ECZANESİ",
-      "ilce": "",
-      "address": "FATİKLİ MAH.M.CAVİD ALKAN CAD.15/A",
-      "phone": "03263113869"
-    },
-    {
-      "name": "ARSLAN ECZANESİ",
-      "ilce": "",
-      "address": "- AKTEPE HASSA",
-      "phone": "03267835533"
-    },
-    {
-      "name": "ZEYTUN ECZANESİ",
-      "ilce": "",
-      "address": "GİRNE MAH.stadyum cad.no:60",
-      "phone": "03267716363"
-    },
-    {
-      "name": "BÖLÜKBAŞI ECZANESİ",
-      "ilce": "",
-      "address": "CUMHURİYET MAH.ATATÜRK CAD.34/A",
-      "phone": "03266818989"
-    },
-    {
-      "name": "YAYLADAĞI ECZANESİ",
-      "ilce": "",
-      "address": "- YAYLADAĞI",
-      "phone": "03264712525"
-    },
-    {
-      "name": "OGUZ ECZANESİ",
-      "ilce": "",
-      "address": "BAKRAS MAH.KAVAKLI SOKAK NO:2 BELEN",
-      "phone": "3264412418"
-    },
-    {
-      "name": "ABALI ECZANESİ",
-      "ilce": "",
-      "address": "GÖKÇEOĞLU MAH.ŞHT.MEHMET KURŞUN GEÇMEZ BULVARI NO:36/C",
-      "phone": "05013716990"
-    }
-  ],
+  "Hatay": [],
   "Iğdır": [
     {
       "name": "CAN ECZANESİ",
@@ -3247,12 +2958,6 @@
       "ilce": "",
       "address": "KARAAĞAÇ MAH.FATİH CAD.NO:5",
       "phone": "04762260288"
-    },
-    {
-      "name": "TUZLUCA SAĞLIK ECZANESİ",
-      "ilce": "N0:35",
-      "address": "CUMHURİYET MAH.SAĞLIK OCAĞI YOLU N0:35/A TUZLUCA-IĞDIR",
-      "phone": "04763112323"
     }
   ],
   "Isparta": [
@@ -3332,24 +3037,6 @@
       "phone": "02324219771"
     },
     {
-      "name": "YENİ TUNCAY ECZANESİ - ALTINDAĞ",
-      "ilce": "",
-      "address": "* (24:00'DEN SONRA- ÇAMDİBİ )",
-      "phone": "02324356177"
-    },
-    {
-      "name": "ÖZGECAN ECZANESİ - ATATÜRK-OSMANGAZİ",
-      "ilce": "",
-      "address": "* (24:00'DEN SONRA- BORNOVA 3 )",
-      "phone": "02329999353"
-    },
-    {
-      "name": "HAKAN ECZANESİ - ATATÜRK-OSMANGAZİ",
-      "ilce": "",
-      "address": "* (24:00'DEN SONRA- BORNOVA 3 )",
-      "phone": "02323757868"
-    },
-    {
       "name": "YEŞİLKENT ECZANESİ - AYRANCILAR",
       "ilce": "",
       "address": "AYRANCILAR MAH.80/2 SOK. NO:2",
@@ -3392,12 +3079,6 @@
       "phone": "02326320001"
     },
     {
-      "name": "GÖNEN ECZANESİ - BEYDAĞ",
-      "ilce": "",
-      "address": "* (01:00'DEN SONRA- İCAP NÖBETİ TUTULMAKTADIR.)",
-      "phone": "02325926868"
-    },
-    {
       "name": "MÜRDÜM ECZANESİ - BORNOVA 1",
       "ilce": "",
       "address": "KIZILAY MAHALLESİ 491/1 SOKAK NO:7/A BORNOVA",
@@ -3414,12 +3095,6 @@
       "ilce": "",
       "address": "MANSUROĞLU MAH. 286 SOK. B BLOK NO:29",
       "phone": "02324358584"
-    },
-    {
-      "name": "DEMİRKAN ECZANESİ - BORNOVA 4",
-      "ilce": "",
-      "address": "* (24:00'DEN SONRA- BORNOVA-1)",
-      "phone": "02323755247"
     },
     {
       "name": "ÇALIKUSU ECZANESİ - BOZYAKA",
@@ -3458,24 +3133,6 @@
       "phone": "02327121199"
     },
     {
-      "name": "CEYLAN ECZANESİ - ÇEŞME",
-      "ilce": "",
-      "address": "SAAT 23:00'A KADAR NÖBETÇİDİR",
-      "phone": "02327235311"
-    },
-    {
-      "name": "ÇESMEALTI ECZANESİ - ÇEŞMEALTI-İSKELE",
-      "ilce": "",
-      "address": "* (23:00'DEN SONRA- URLA )",
-      "phone": "02327551738"
-    },
-    {
-      "name": "SU ECZANESİ - ÇİĞLİ",
-      "ilce": "",
-      "address": "SAAT 23:59'A KADAR NÖBETÇİDİR",
-      "phone": "02323841515"
-    },
-    {
       "name": "ERDEN ECZANESİ - ÇİĞLİ",
       "ilce": "",
       "address": "ATAŞEHİR MAH. 8229/1 SOK. NO:11",
@@ -3500,58 +3157,16 @@
       "phone": "02328127071"
     },
     {
-      "name": "SAHIN ECZANESİ - ESKİİZMİR-CENNETÇEŞME",
-      "ilce": "",
-      "address": "* (24:00'DEN SONRA- BOZYAKA)",
-      "phone": "02322716882"
-    },
-    {
       "name": "YENİ VEFA ECZANESİ - EŞREFPAŞA",
       "ilce": "",
       "address": "GÜNEŞLİ MAH. 529/1 SK NO:11/B",
       "phone": "02322551990"
     },
     {
-      "name": "TIJEN ECZANESİ - EVKA 1",
-      "ilce": "",
-      "address": "* (24:00'DEN SONRA- BUCA 1)",
-      "phone": "02324267767"
-    },
-    {
       "name": "ŞENTÜRK ECZANESİ - GAZİEMİR",
       "ilce": "",
       "address": "ABDÜLHAMİT YAVUZ CD. 38/C",
       "phone": "02322522756"
-    },
-    {
-      "name": "NERMİN ECZANESİ - GEDİZ",
-      "ilce": "",
-      "address": "* (01:00'DEN SONRA- ŞİRİNYER )",
-      "phone": "02322768994"
-    },
-    {
-      "name": "ÇAREM ECZANESİ - GÜLTEPE",
-      "ilce": "",
-      "address": "* (24:00'DEN SONRA- YENİŞEHİR)",
-      "phone": "02324570750"
-    },
-    {
-      "name": "ÜNAL ECZANESİ - GÜMÜLDÜR-ÖZDERE",
-      "ilce": "",
-      "address": "29 EKİM CAD.577/D ÖZDERE",
-      "phone": "02327987374"
-    },
-    {
-      "name": "ONUR ECZANESİ - GÜMÜŞPALA",
-      "ilce": "",
-      "address": "* (24:00'DEN SONRA - KARŞIYAKA 4 )",
-      "phone": "02323634888"
-    },
-    {
-      "name": "GÜLHAYAT ECZANESİ - GÜZELBAHÇE",
-      "ilce": "",
-      "address": "* (24:00'DEN SONRA- NARLIDERE - URLA)",
-      "phone": "02322346479"
     },
     {
       "name": "AYAR ECZANESİ - HATAY",
@@ -3626,12 +3241,6 @@
       "phone": "02328316160"
     },
     {
-      "name": "KOYUNDERE ECZANESİ - MENEMEN 2",
-      "ilce": "",
-      "address": "* (24:00'DEN SONRA- MENEMEN)",
-      "phone": "02328461123"
-    },
-    {
       "name": "MİMOZA ECZANESİ - MİTHATPAŞA",
       "ilce": "",
       "address": "TURGUT REİS MAH. MİTHATPAŞA CAD. NO:374/A",
@@ -3656,18 +3265,6 @@
       "phone": "02325441844"
     },
     {
-      "name": "SIMA ECZANESİ - PINARBAŞI",
-      "ilce": "",
-      "address": "* (24:00'DEN SONRA- ÇAMDİBİ)",
-      "phone": "02324795435"
-    },
-    {
-      "name": "AYBEK ECZANESİ - SARNIÇ",
-      "ilce": "",
-      "address": "* (24:00'DEN SONRA- GAZİEMİR)",
-      "phone": "02322811578"
-    },
-    {
       "name": "SILA ECZANESİ - SEFERİHİSAR",
       "ilce": "",
       "address": "CAMİKEBİR MH. 52 SK. NO:1/A",
@@ -3678,12 +3275,6 @@
       "ilce": "",
       "address": "ZAFER MAH.3034 SOK.NO:2/10",
       "phone": "02328927323"
-    },
-    {
-      "name": "SIĞACIK ECZANESİ - SIĞACIK",
-      "ilce": "",
-      "address": "* (21:00'DEN SONRA- SEFERİHİSAR )",
-      "phone": "02327432233"
     },
     {
       "name": "DAMLA IŞIK ECZANESİ - ŞİRİNYER",
@@ -3698,12 +3289,6 @@
       "phone": "02325124581"
     },
     {
-      "name": "KRİSTAL ECZANESİ - TORBALI",
-      "ilce": "",
-      "address": "SAAT 23:59'A KADAR NÖBETÇİDİR",
-      "phone": "02328562129"
-    },
-    {
       "name": "SEMRA ECZANESİ - TORBALI",
       "ilce": "",
       "address": "ERTUĞRUL MAH. SADIK İLERİ BULVARI NO:54/A",
@@ -3716,22 +3301,10 @@
       "phone": "02322275779"
     },
     {
-      "name": "GÜLCE ECZANESİ - ÜRKMEZ",
-      "ilce": "",
-      "address": "SAAT 19:00'A KADAR NÖBETÇİDİR",
-      "phone": "02327421677"
-    },
-    {
       "name": "GÜNEŞ ECZANESİ - URLA",
       "ilce": "",
       "address": "YENİ MAHALLE MAH. ZAFER CAD. NO:38",
       "phone": "02327541648"
-    },
-    {
-      "name": "YAGMUR ECZANESİ - YENİ FOÇA",
-      "ilce": "",
-      "address": "* (24:00'DEN SONRA- ESKİ FOÇA)",
-      "phone": "02328148615"
     },
     {
       "name": "YAZAL ECZANESİ - YENİ ŞAKRAN",
@@ -3744,18 +3317,6 @@
       "ilce": "",
       "address": "GAZİLER CD. NO:353/2E",
       "phone": "02322642909"
-    },
-    {
-      "name": "BURAK ECZANESİ - YEŞİLYURT",
-      "ilce": "",
-      "address": "* (24:00'DEN SONRA- BASIN SİTESİ)",
-      "phone": "02322618757"
-    },
-    {
-      "name": "HAYATİ BEY ECZANESİ - ZEYTİNALANI",
-      "ilce": "",
-      "address": "* (22:00'DEN SONRA- URLA )",
-      "phone": "02327663005"
     }
   ],
   "Kahramanmaraş": [
@@ -3832,12 +3393,6 @@
       "phone": "03445613232"
     },
     {
-      "name": "ÇÖÇELLİ ECZANESİ",
-      "ilce": "",
-      "address": "!! GECE 22:00'DAN SONRA PAZARCIK BÖLGESİNDEKİ ECZANE NÖBETÇİDİR.",
-      "phone": "05528556246"
-    },
-    {
       "name": "İLKHANLAR ECZANESİ",
       "ilce": "",
       "address": "BAĞDIN-I SAĞIR MAH. 1058.SOK.NO:1",
@@ -3900,19 +3455,20 @@
       "phone": "03707664455"
     }
   ],
-  "Karaman": [],
+  "Karaman": [
+    {
+      "name": "DOST ECZANESİ",
+      "ilce": "",
+      "address": "TAŞBAŞI MAH. CUMHURİYET CAD. NO: 81/A KARAMAN/ERMENEK",
+      "phone": "170220260800"
+    }
+  ],
   "Kars": [
     {
       "name": "RUMEYSA ECZANESİ",
       "ilce": "",
       "address": "ORTA MAH. İBRAHİM GÖKÇE CAD. NO:18/D",
       "phone": "04742812550"
-    },
-    {
-      "name": "ŞİFA ECZANESİ",
-      "ilce": "",
-      "address": "SAHİNDERE MAH.MİLLİ EGEMENLİK CAD:NO.21 KAĞIZMAN-KARS",
-      "phone": "04743518028"
     },
     {
       "name": "KÜBRA ECZANESİ",
@@ -3951,12 +3507,6 @@
       "ilce": "",
       "address": "GENÇLİK MEYDANI NO:3/H",
       "phone": "03667371414"
-    },
-    {
-      "name": "İĞDİR ECZANESİ",
-      "ilce": "",
-      "address": "Bugün 19:00:00'a Kadar Açık",
-      "phone": "03663727364"
     },
     {
       "name": "AKÇAOĞLU ECZANESİ",
@@ -4069,10 +3619,10 @@
   ],
   "Kayseri": [
     {
-      "name": "AYDEMİR ECZANESİ",
+      "name": "ASLIM ECZANESİ",
       "ilce": "",
-      "address": "ÖRNEKEVLER MAH. SALIH AVGUN PASA CAD. NO:26/A",
-      "phone": "03522223634"
+      "address": "Şeker Mahallesi, Muhsin Yazıcıoğlu Bulvarı, 72/E",
+      "phone": "150220260830160220260830"
     },
     {
       "name": "SIHHAT ECZANESİ",
@@ -4081,76 +3631,22 @@
       "phone": "03523363848"
     },
     {
-      "name": "ERÜLGEN ECZANESİ",
-      "ilce": "",
-      "address": "Hunat Mah. Nuh Mehmet Baldöktü Sok. No5/D",
-      "phone": "03525047415"
-    },
-    {
-      "name": "ASLIM ECZANESİ",
-      "ilce": "",
-      "address": "Şeker Mahallesi, Muhsin Yazıcıoğlu Bulvarı, 72/E",
-      "phone": "150220260830160220260830"
-    },
-    {
       "name": "GAYE ECZANESİ",
       "ilce": "",
       "address": "GESİ FATİH MAH. SAFFET ARIKAN BEDÜK CAD. NO:70/C",
       "phone": "03522362927"
     },
     {
-      "name": "KOZA ECZANESİ",
+      "name": "ERÜLGEN ECZANESİ",
       "ilce": "",
-      "address": "!!01:00'A KADAR NÖBETÇİDİR!!",
-      "phone": "03525032228"
+      "address": "Hunat Mah. Nuh Mehmet Baldöktü Sok. No5/D",
+      "phone": "03525047415"
     },
     {
-      "name": "BUSE ECZANESİ",
+      "name": "AYDEMİR ECZANESİ",
       "ilce": "",
-      "address": "!!01:00'A KADAR NÖBETÇİDİR!!",
-      "phone": "03523265838"
-    },
-    {
-      "name": "MELİKE ECZANESİ",
-      "ilce": "",
-      "address": "!!01:00'A KADAR NÖBETÇİDİR!!",
-      "phone": "03524371919"
-    },
-    {
-      "name": "ESRA ÖZKAN ECZANESİ",
-      "ilce": "",
-      "address": "!!01:00'A KADAR NÖBETÇİDİR!!",
-      "phone": "03522452339"
-    },
-    {
-      "name": "İSTİKBAL ECZANESİ",
-      "ilce": "",
-      "address": "!!01:00'A KADAR NÖBETÇİDİR!!",
-      "phone": "03523473343"
-    },
-    {
-      "name": "HANIMELİ ECZANESİ",
-      "ilce": "",
-      "address": "!!01:00'A KADAR NÖBETÇİDİR!!",
-      "phone": "03524085551"
-    },
-    {
-      "name": "MELİSA ECZANESİ",
-      "ilce": "",
-      "address": "!!01:00'A KADAR NÖBETÇİDİR!!",
-      "phone": "03527389484"
-    },
-    {
-      "name": "DANDİN ECZANESİ",
-      "ilce": "",
-      "address": "!!01:00'A KADAR NÖBETÇİDİR!!",
-      "phone": "03523203738"
-    },
-    {
-      "name": "GÖZDE ECZANESİ",
-      "ilce": "",
-      "address": "!!01:00'A KADAR NÖBETÇİDİR!!",
-      "phone": "03525023254"
+      "address": "ÖRNEKEVLER MAH. SALIH AVGUN PASA CAD. NO:26/A",
+      "phone": "03522223634"
     }
   ],
   "Kırıkkale": [],
@@ -4280,12 +3776,6 @@
       "phone": "02627449834"
     },
     {
-      "name": "ÇINAR ECZANESİ",
-      "ilce": "",
-      "address": "23:59:00 KADAR NÖBETÇİDİR.",
-      "phone": "05077420754"
-    },
-    {
       "name": "ŞEBNEM ENİSE ECZANESİ",
       "ilce": "",
       "address": "BAĞLARBAŞI MAH. İSTASYON CAD. NO:204 DARICA",
@@ -4334,12 +3824,6 @@
       "phone": "02624120816"
     },
     {
-      "name": "HÜRRİYET ECZANESİ",
-      "ilce": "",
-      "address": "23:59:00 KADAR NÖBETÇİDİR.",
-      "phone": "02627449672"
-    },
-    {
       "name": "SEDEF ECZANESİ",
       "ilce": "",
       "address": "DEĞİRMENDERE",
@@ -4368,12 +3852,6 @@
       "ilce": "",
       "address": "GÜNEY MAH.ALBAY SOK.NO:14/C",
       "phone": "02625264657"
-    },
-    {
-      "name": "ATAMAN ECZANESİ",
-      "ilce": "",
-      "address": "23:59:00 KADAR NÖBETÇİDİR.",
-      "phone": "05332502972"
     },
     {
       "name": "MARMARA ECZANESİ",
@@ -4771,28 +4249,10 @@
       "phone": "03245021516"
     },
     {
-      "name": "SAĞLAM ECZANESİ",
-      "ilce": "",
-      "address": "- YENİŞEHİR",
-      "phone": "03243275848"
-    },
-    {
       "name": "YILDIZELİ ECZANESİ",
       "ilce": "",
       "address": "GÜNEYKENT MH. FARABİ CD. 38 SK. NO:23",
       "phone": "03242232104"
-    },
-    {
-      "name": "AYDIN ECZANESİ",
-      "ilce": "",
-      "address": "!!24:00'E KADAR NÖBETÇİDİR!!",
-      "phone": "03246241068"
-    },
-    {
-      "name": "BEREKET ECZANESİ",
-      "ilce": "",
-      "address": "!!24:00'E KADAR NÖBETÇİDİR!!",
-      "phone": "03246258400"
     },
     {
       "name": "OKUR ECZANESİ",
@@ -4819,18 +4279,6 @@
       "phone": "03247143188"
     },
     {
-      "name": "SUSANOĞLU ECZANESİ",
-      "ilce": "",
-      "address": "Atakent Mh. Alparslan Türkeş Bulv. E Blok Apt. No:179 E/3",
-      "phone": "03247224686"
-    },
-    {
-      "name": "TAŞUCU ECZANESİ",
-      "ilce": "",
-      "address": "!!24:00'E KADAR NÖBETÇİDİR!!",
-      "phone": "03247414986"
-    },
-    {
       "name": "MEYDAN ECZANESİ",
       "ilce": "",
       "address": "KARSIYAKA MAH. DONATIM CAD. NO:7",
@@ -4847,12 +4295,6 @@
       "ilce": "",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:74/H",
       "phone": "03245157020"
-    },
-    {
-      "name": "GÜL ECZANESİ",
-      "ilce": "",
-      "address": "!!24:00'E KADAR NÖBETÇİDİR!!",
-      "phone": "03245152552"
     },
     {
       "name": "BİRGÜL ECZANESİ",
@@ -4875,82 +4317,76 @@
   ],
   "Muğla": [
     {
-      "name": "NIZAMOGLU ECZANESİ",
+      "name": "FIDAN ECZANESİ",
       "ilce": "",
-      "address": "ORHANIYE MAH. HASTANE SOKAK NO:14/A MENTEŞE",
-      "phone": "02522123670"
+      "address": "Eren sitesi mavi optik yanından sağa dönünce 2.blok altı menteşe devlet hastanesi",
+      "phone": "02522144874"
     },
     {
-      "name": "YAMASAN ECZANESİ",
-      "ilce": "",
-      "address": "SAĞLIK MÜDÜRLÜĞÜ KARŞISI",
-      "phone": "02522148298"
-    },
-    {
-      "name": "SAHIN ECZANESİ",
+      "name": "YERKESIK ECZANESİ",
       "ilce": "",
       "address": "- MENTEŞE (YERKESİK)",
-      "phone": "02522322039"
+      "phone": "02522322001"
     },
     {
-      "name": "BAYIR ECZANESİ",
+      "name": "ÇAGRI BAYIR ECZANESİ",
       "ilce": "",
       "address": "- MENTEŞE (BAYIR)",
-      "phone": "02522255591"
+      "phone": "02522253697"
     },
     {
-      "name": "KUMBAHÇE ECZANESİ",
+      "name": "ÇARŞI ECZANESİ",
       "ilce": "",
       "address": "- BODRUM (MERKEZ)",
-      "phone": "02523132343"
+      "phone": "02523135182"
     },
     {
-      "name": "GÖKÇE ECZANESİ",
+      "name": "NİLGÜN ECZANESİ",
       "ilce": "",
       "address": "- BODRUM (MUMCULAR)",
-      "phone": "02523166366"
+      "phone": "02523735717"
     },
     {
-      "name": "ÖZER ECZANESİ",
+      "name": "ERDEM ECZANESİ",
       "ilce": "",
       "address": "- BODRUM (YALIKAVAK)",
-      "phone": "2523855220"
+      "phone": "02523853638"
     },
     {
-      "name": "NATURA ECZANESİ",
+      "name": "CANSEL ECZANESİ",
       "ilce": "",
       "address": "- BODRUM (TURGUTREİS)",
-      "phone": "02523827784"
+      "phone": "02523824137"
     },
     {
-      "name": "UĞUR ECZANESİ",
+      "name": "AKDENIZ ECZANESİ",
       "ilce": "",
       "address": "- BODRUM (GÜMBET-KONACIK-ORTAKENT-BİTEZ)",
-      "phone": "02523193863"
+      "phone": "2523192153"
     },
     {
-      "name": "ORFOZ ECZANESİ",
+      "name": "GÖLKÖY ECZANESİ",
       "ilce": "",
       "address": "- BODRUM (GÜNDOĞAN-GÖLTÜRKBÜKÜ)",
-      "phone": "02523775314"
+      "phone": "02523577112"
     },
     {
-      "name": "SÖGÜT ECZANESİ",
+      "name": "NEFES ECZANESİ",
       "ilce": "",
       "address": "- MARMARİS (1. BÖLGE)",
-      "phone": "02524120048"
+      "phone": "02524171680"
     },
     {
-      "name": "PINAR ECZANESİ",
+      "name": "ALEYNA ECZANESİ",
       "ilce": "",
       "address": "- MARMARİS (2. BÖLGE)",
-      "phone": "02524122050"
+      "phone": "02524171967"
     },
     {
-      "name": "ÖZLEM ÖNEY ECZANESİ",
+      "name": "DAMLA ECZANESİ",
       "ilce": "",
       "address": "- MİLAS (MERKEZ)",
-      "phone": "02525021450"
+      "phone": "02525123663"
     },
     {
       "name": "ÇAKIRÖZ ECZANESİ",
@@ -4959,136 +4395,136 @@
       "phone": "02525422699"
     },
     {
-      "name": "KORKMAZ ECZANESİ",
+      "name": "ÖREN YALI ECZANESİ",
       "ilce": "",
       "address": "- MİLAS (ÖREN)",
-      "phone": "02525322811"
+      "phone": "02525322205"
     },
     {
-      "name": "CAN ECZANESİ",
+      "name": "HAYAL ECZANESİ",
       "ilce": "",
       "address": "- MİLAS (GÜLLÜK)",
-      "phone": "02525223110"
+      "phone": "02525223458"
     },
     {
-      "name": "GÜNES ECZANESİ",
+      "name": "ÖNCE SAĞLIK ECZANESİ",
       "ilce": "",
       "address": "- ORTACA (MERKEZ)",
-      "phone": "02522829051"
+      "phone": "02522825534"
     },
     {
-      "name": "DALYAN ECZANESİ",
+      "name": "KAUNOS ECZANESİ",
       "ilce": "",
       "address": "- ORTACA (DALYAN)",
-      "phone": "02522844858"
+      "phone": "02522842509"
     },
     {
-      "name": "GÖCEK ECZANESİ",
+      "name": "SAHİL ECZANESİ",
       "ilce": "",
       "address": "- FETHİYE (GÖCEK)",
-      "phone": "02526452523"
+      "phone": "02525021884"
     },
     {
-      "name": "FETHİYE ADA ECZANESİ",
+      "name": "MANOLYA ECZANESİ",
       "ilce": "",
       "address": "- FETHİYE (1. BÖLGE)",
-      "phone": "02526132125"
+      "phone": "02526146293"
     },
     {
-      "name": "BİLGİN ECZANESİ",
+      "name": "YENİ ERTÜRK ECZANESİ",
       "ilce": "",
       "address": "- FETHİYE (2. BÖLGE)",
-      "phone": "02526128085"
+      "phone": "02526131322"
     },
     {
-      "name": "MURAT ECZANESİ",
+      "name": "DERMAN ECZANESİ",
       "ilce": "",
       "address": "- FETHİYE (ÇALICA)",
-      "phone": "02526469084"
+      "phone": "02526469788"
     },
     {
-      "name": "GÖCEK ECZANESİ",
+      "name": "SAHİL ECZANESİ",
       "ilce": "",
       "address": "- FETHİYE (GÖCEK)",
-      "phone": "02526452523"
+      "phone": "02525021884"
     },
     {
-      "name": "GÜL ECZANESİ",
+      "name": "ESENKÖY DEFNE ECZANESİ",
       "ilce": "",
       "address": "- FETHİYE (ESENKÖY)",
-      "phone": "02526357415"
+      "phone": "02526357767"
     },
     {
-      "name": "ÇAMCI ECZANESİ",
+      "name": "OVACIK ECZANESİ",
       "ilce": "",
       "address": "- FETHİYE (HİSARÖNÜ)",
-      "phone": "02526167790"
+      "phone": "02526166253"
     },
     {
-      "name": "YÖRÜK ECZANESİ",
+      "name": "DENIZ ECZANESİ",
       "ilce": "",
       "address": "- FETHİYE (PATLANGIÇ)",
-      "phone": "02526110200"
+      "phone": "02526469338"
     },
     {
-      "name": "KÖYCEGIZ ECZANESİ",
+      "name": "CEYLAN ECZANESİ",
       "ilce": "",
       "address": "- KÖYCEĞİZ (MERKEZ)",
-      "phone": "02522624094"
+      "phone": "02522624707"
     },
     {
-      "name": "YASEMİN ECZANESİ",
+      "name": "BEYOBASI ECZANESİ",
       "ilce": "",
       "address": "- KÖYCEĞİZ (BEYOBASI)",
-      "phone": "02522720224"
+      "phone": "02522720023"
     },
     {
-      "name": "GÜNESLI ECZANESİ",
+      "name": "BAL ECZANESİ",
       "ilce": "",
       "address": "- SEYDİKEMER (MERKEZ)",
-      "phone": "02526561400"
+      "phone": "02526562025"
     },
     {
-      "name": "ANADOLU ECZANESİ",
+      "name": "MÜCASIROGLU ECZANESİ",
       "ilce": "",
       "address": "- SEYDİKEMER (EŞEN)",
-      "phone": "02526371477"
+      "phone": "160220261830170220260900"
     },
     {
-      "name": "LETOON ECZANESİ",
+      "name": "KUMLUOVA ECZANESİ",
       "ilce": "",
       "address": "- SEYDİKEMER (KUMLUOVA)",
-      "phone": "02526778363"
+      "phone": "02520000000"
     },
     {
-      "name": "SEVER ECZANESİ",
+      "name": "SELIN ECZ. ECZANESİ",
       "ilce": "",
       "address": "- KAVAKLIDERE",
-      "phone": "02525927448"
+      "phone": "02525927630"
     },
     {
-      "name": "ANIL ECZANESİ",
+      "name": "GÜLİN ECZANESİ",
       "ilce": "",
-      "address": "DATÇA MAHALLESİ KAZIM YILMAZ BULVARI NO:107/A-B",
-      "phone": "02527124451"
+      "address": "İSKELE MAHALLESİ, DR. TURGUT DÜNDAR CADDESİ NO:12/F",
+      "phone": "05444523582"
     },
     {
-      "name": "YAŞARLAR ECZANESİ",
+      "name": "SAHIN ECZANESİ",
       "ilce": "",
-      "address": "MERKEZ MAHALLESİ ATATÜRK CADDESİ NO:73/A",
-      "phone": "02526921800"
+      "address": "5. NOLU ASM KARŞISI DALAMAN",
+      "phone": "02526925835"
     },
     {
-      "name": "SENER ECZANESİ",
+      "name": "ÖZGÜR ECZANESİ",
       "ilce": "",
-      "address": "DEMIRTAS MAHALLESI CUMHURIYET CAD. NO:49/A ULA/MUGLA",
-      "phone": "02522423538"
+      "address": "AYAZ KIYI MAHALLESİ CUMHURİYET CADDESI NO:18 ULA/MUGLA",
+      "phone": "02522423334"
     },
     {
-      "name": "SABAHAT ÖZSOY ECZANESİ",
+      "name": "YATAGAN ECZANESİ",
       "ilce": "",
-      "address": "KONAK MAH.ATATÜRK CAD.NO:22 YATAGAN",
-      "phone": "2525729799"
+      "address": "KONAK MAH.ATATÜRK CAD.NO:34/A YATAGAN",
+      "phone": "02525725171"
     }
   ],
   "Muş": [
@@ -5141,12 +4577,6 @@
       "ilce": "",
       "address": "NAR AŞAĞI MAHALLE HASTANE CADDESİ NO:1/8",
       "phone": "03842152280"
-    },
-    {
-      "name": "ONUR ECZANESİ",
-      "ilce": "",
-      "address": "KAYSERI CAD.BEYAZSARAY APARTMANI ALTINO:22/E",
-      "phone": "03842125073"
     },
     {
       "name": "YILMAZ ECZANESİ",
@@ -5293,18 +4723,6 @@
       "phone": "150220260800160220260800"
     },
     {
-      "name": "YILDIRIM ECZANESİ",
-      "ilce": "",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "YILDIRIM ECZANESİ",
-      "ilce": "",
-      "address": "Bugün 18:00:00'e Kadar Nöbetçidir!",
-      "phone": "05333886139"
-    },
-    {
       "name": "HALK ECZANESİ",
       "ilce": "",
       "address": "",
@@ -5315,18 +4733,6 @@
       "ilce": "",
       "address": "MERKEZ MAHALLESİ 2. CADDE NO:72",
       "phone": "150220260800160220260800"
-    },
-    {
-      "name": "ÇİÇEK ECZANESİ",
-      "ilce": "",
-      "address": "",
-      "phone": ""
-    },
-    {
-      "name": "ÇİÇEK ECZANESİ",
-      "ilce": "",
-      "address": "Bugün 23:00:00'e Kadar Nöbetçidir!",
-      "phone": "04643312967"
     },
     {
       "name": "ARDEŞEN ECZANESİ",
@@ -5523,18 +4929,6 @@
       "phone": "03465027071"
     },
     {
-      "name": "YENİ EMEK ECZANESİ",
-      "ilce": "",
-      "address": "BU GECE SAAT 23:59'A KADAR HİZMET VERECEKTİR",
-      "phone": "03462281980"
-    },
-    {
-      "name": "ANIL ECZANESİ",
-      "ilce": "",
-      "address": "BU GECE SAAT 23:59'A KADAR HİZMET VERECEKTİR",
-      "phone": "03462261611"
-    },
-    {
       "name": "ALTINYAYLA ECZANESİ",
       "ilce": "",
       "address": "RIFAT ÖÇTEN MAH.CUMHURİYET CD.NO:50/A",
@@ -5609,6 +5003,12 @@
   ],
   "Şanlıurfa": [
     {
+      "name": "BURCU ECZANESİ ( Karaköprü )",
+      "ilce": "",
+      "address": "ŞANLIURFA MERKEZ",
+      "phone": "05541513282"
+    },
+    {
       "name": "MAŞUK ECZANESİ",
       "ilce": "",
       "address": "ŞANLIURFA MERKEZ",
@@ -5643,12 +5043,6 @@
       "ilce": "",
       "address": "ŞANLIURFA MERKEZ",
       "phone": "05058579863"
-    },
-    {
-      "name": "BURCU ECZANESİ ( Karaköprü )",
-      "ilce": "",
-      "address": "ŞANLIURFA MERKEZ",
-      "phone": "05541513282"
     },
     {
       "name": "HAKTANIR ECZANESİ",
@@ -5853,18 +5247,6 @@
       "phone": "02822632244"
     },
     {
-      "name": "ÇİFTLİKÖNÜ ECZANESİ",
-      "ilce": "",
-      "address": "- SÜLEYMANPAŞA",
-      "phone": "02822601776"
-    },
-    {
-      "name": "ŞEN ECZANESİ",
-      "ilce": "",
-      "address": "- SÜLEYMANPAŞA",
-      "phone": "02822438000"
-    },
-    {
       "name": "CEMHAN ECZANESİ",
       "ilce": "",
       "address": "- ÇERKEZKÖY",
@@ -5875,18 +5257,6 @@
       "ilce": "",
       "address": "- ÇERKEZKÖY",
       "phone": "02827251565"
-    },
-    {
-      "name": "YAĞMUR ECZANESİ",
-      "ilce": "",
-      "address": "- ÇERKEZKÖY",
-      "phone": "02825029776"
-    },
-    {
-      "name": "HALK ECZANESİ",
-      "ilce": "",
-      "address": "- ÇERKEZKÖY",
-      "phone": "05306745406"
     },
     {
       "name": "BAL ARISI ECZANESİ",
@@ -5905,12 +5275,6 @@
       "ilce": "",
       "address": "ESENTEPE MAH. ADNAN DOĞU GOLDEN LİFE C BLOK APT.NO:11 1/B ZEMİN 9 NOLU DÜKKAN",
       "phone": "02825029697"
-    },
-    {
-      "name": "NURHAYAT ECZANESİ",
-      "ilce": "",
-      "address": "Bugün 08:00 - 23:59 arasında nöbetçidir.",
-      "phone": "02826503585"
     },
     {
       "name": "SAĞLIK ECZANESİ",
@@ -5949,12 +5313,6 @@
       "phone": "02825183990"
     },
     {
-      "name": "SENEM ECZANESİ",
-      "ilce": "",
-      "address": "- YENİÇİFTLİK",
-      "phone": "02826442353"
-    },
-    {
       "name": "KAYA ECZANESİ",
       "ilce": "",
       "address": "ATATÜRK MAH.ERBAY CAD.NO:53/A",
@@ -5965,18 +5323,6 @@
       "ilce": "",
       "address": "İNÖNÜ MAH.GAZİOSMANPAŞA CAD.NO:30-32 D",
       "phone": "02825025554"
-    },
-    {
-      "name": "GÜNEŞ ECZANESİ",
-      "ilce": "",
-      "address": "Bugün 08:00 - 23:45 arasında nöbetçidir.",
-      "phone": "02826866789"
-    },
-    {
-      "name": "FULYA ECZANESİ",
-      "ilce": "",
-      "address": "Bugün 08:00 - 18:00 arasında nöbetçidir.",
-      "phone": "02826745559"
     }
   ],
   "Trabzon": [
@@ -6287,16 +5633,16 @@
       "phone": "05011556265"
     },
     {
-      "name": "HANÇER ECZANESİ",
-      "ilce": "",
-      "address": "Devlet Hastanesi Karşısı Kışla Mah. Şehitler Cad.Dış Kapı No:77 İç Kapı No:26",
-      "phone": "05432043932"
-    },
-    {
       "name": "DEVA ECZANESİ",
       "ilce": "",
       "address": "BEYAZIT MAH.ZEYDAN CAD.NO:24",
       "phone": "04323513233"
+    },
+    {
+      "name": "HANÇER ECZANESİ",
+      "ilce": "",
+      "address": "Devlet Hastanesi Karşısı Kışla Mah. Şehitler Cad.Dış Kapı No:77 İç Kapı No:26",
+      "phone": "05432043932"
     },
     {
       "name": "BAŞKALE ECZANESİ",
@@ -6327,12 +5673,6 @@
       "ilce": "",
       "address": "ÇAVUŞTEPE MAH.ÇAVUŞTEPE SK.ÇAVUŞTEPE CAMİİ ÖNÜ NO:136",
       "phone": "05515092165"
-    },
-    {
-      "name": "YAŞAM ECZANESİ",
-      "ilce": "",
-      "address": "Atatürk Mahallesi 3 Nisan No:71",
-      "phone": "04327812465"
     },
     {
       "name": "FATİH ECZANESİ",
@@ -6513,22 +5853,10 @@
       "phone": "03722400670"
     },
     {
-      "name": "MÜGE ECZANESİ",
-      "ilce": "",
-      "address": "ZONGULDAK - İNCİVEZ",
-      "phone": "03722571115"
-    },
-    {
       "name": "DERMAN ECZANESİ",
       "ilce": "",
       "address": "ZONGULDAK - KOZLU",
       "phone": "03722668989"
-    },
-    {
-      "name": "YEDİTEPE ECZANESİ",
-      "ilce": "",
-      "address": "ZONGULDAK - KOZLU FATİH SİTESİ",
-      "phone": "03722662423"
     },
     {
       "name": "BOZKURT ECZANESİ",
@@ -6543,12 +5871,6 @@
       "phone": "03722656676"
     },
     {
-      "name": "EBRU ECZANESİ",
-      "ilce": "",
-      "address": "ZONGULDAK - ÇATALAĞZI",
-      "phone": "03722641064"
-    },
-    {
       "name": "GÜR ECZANESİ",
       "ilce": "",
       "address": "KDZ. EREĞLİ",
@@ -6559,12 +5881,6 @@
       "ilce": "",
       "address": "KDZ. EREĞLİ - KEPEZ",
       "phone": "03723228737"
-    },
-    {
-      "name": "BÜŞRA ECZANESİ",
-      "ilce": "",
-      "address": "KDZ. EREĞLİ - SUBAŞI",
-      "phone": "03723230666"
     },
     {
       "name": "ALAPLI ECZANESİ",
@@ -6589,36 +5905,6 @@
       "ilce": "",
       "address": "YARIN SABAH SAAT , 08:30'A KADAR NÖBETÇİDİR.",
       "phone": "03726157954"
-    },
-    {
-      "name": "BIRINCI ECZANESİ",
-      "ilce": "",
-      "address": "ÇAYCUMA - PERŞEMBE",
-      "phone": "03726386136"
-    },
-    {
-      "name": "TUBA ECZANESİ",
-      "ilce": "",
-      "address": "ÇAYCUMA - KARAPINAR",
-      "phone": "03726283330"
-    },
-    {
-      "name": "SERHAT ECZANESİ",
-      "ilce": "",
-      "address": "ÇAYCUMA - NEBİOĞLU",
-      "phone": "03726386030"
-    },
-    {
-      "name": "SALTUKOVA ECZANESİ",
-      "ilce": "",
-      "address": "ÇAYCUMA - SALTUKOVA",
-      "phone": "03726182010"
-    },
-    {
-      "name": "HISARÖNÜ ECZANESİ",
-      "ilce": "",
-      "address": "ÇAYCUMA - HİSARÖNÜ",
-      "phone": "03726231064"
     },
     {
       "name": "TURKUAZ ECZANESİ",
